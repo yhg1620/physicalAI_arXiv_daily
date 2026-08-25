@@ -23,6 +23,8 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     # --------- My Keywords ---------
+    "Robot&Agent":
+        filters: ["Embodied Agent", "Human-Robot", "Cross-Embodiment"]
     "Manipulation":
         filters: ["Robot Manipulation", "Robotic Manipulation", "Robot Learning", "Imitation Learning"]
     "VLM":
@@ -35,6 +37,6 @@ keywords:
         filters: ["World Model", "World Action Model", "World Simulator"]
     "Evaluation":
         filters: ["Embodied Simulator", "Robotics Benchmark", "Policy Evaluation for Robotics"]
-    "Failure":
+    "Robot Task Failure":
         filters: ["Robotic Failure Detection", "Failure Anticipation"]
 
