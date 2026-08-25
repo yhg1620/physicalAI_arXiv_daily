@@ -10146,6 +10146,21 @@ layout: default
 |**2026-08-17**|**Benchmarking the Benchmarks: Evaluating Automated Safety Benchmarks for Small Language Models**|Bo Luo Team|[2608.17183](http://arxiv.org/abs/2608.17183)|null|
 |**2026-08-18**|**Palmyra x6 Technical Report: An Agentic, Tool-Use Model Post-Trained via Anchored Supervised Fine-Tuning**|Daniel M. Bikel Team|[2608.16620](http://arxiv.org/abs/2608.16620)|null|
 |**2026-08-13**|**Language-Specific Gaps in AI Safety Training Datasets**|Rashidat Sikiru Team|[2608.13695](http://arxiv.org/abs/2608.13695)|null|
+|**2026-08-06**|**CIPS: Maximal Certified Persistence in Cyber-Physical Systems**|Avinash Malik Team|[2608.06626](http://arxiv.org/abs/2608.06626)|null|
+|**2026-07-26**|**MulRobBench: A Decision-Level Benchmark for Safe and Security-Policy-Compliant Multimodal UAV Agents**|Izzat Alsmadi Team|[2607.23870](http://arxiv.org/abs/2607.23870)|null|
+|**2026-06-26**|**Self-Evolving Just-In-Time Memory for Proactive Embodied Safety**|Xiao Yang Team|[2607.16247](http://arxiv.org/abs/2607.16247)|null|
+|**2026-08-21**|**When Words Are Safe But Actions Kill: Probing Physical Jailbreak Beyond Textual Jailbreak in Hidden-State Risk Space**|Ke Xu Team|[2607.15218](http://arxiv.org/abs/2607.15218)|null|
+|**2026-07-16**|**SafeRelBench: A Spatial-Relation-Aware Benchmark for Process-Level Safety in VLM-Driven Embodied Agents**|Zhaofeng He Team|[2607.14543](http://arxiv.org/abs/2607.14543)|null|
+|**2026-07-09**|**SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets**|Luyao Zhang Team|[2607.08681](http://arxiv.org/abs/2607.08681)|null|
+|**2026-08-19**|**SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects (Early Version)**|Haibao Yu Team|[2607.04234](http://arxiv.org/abs/2607.04234)|null|
+|**2026-06-30**|**EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards**|Dasol Choi Team|[2607.00218](http://arxiv.org/abs/2607.00218)|null|
+|**2026-06-30**|**OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation**|Roberto Martín-Martín Team|[2606.31993](http://arxiv.org/abs/2606.31993)|**[link](https://robin-lab.cs.utexas.edu/oopsieverse/.)**|
+|**2026-06-27**|**ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models**|Yi Zeng Team|[2606.27079](http://arxiv.org/abs/2606.27079)|null|
+|**2026-06-25**|**Can Large Language Models Reliably Code Qualitative Humanitarian Data? A Benchmark Study Against Human Expert Adjudication**|Patrick Vinck Team|[2606.26541](http://arxiv.org/abs/2606.26541)|null|
+|**2026-06-07**|**Safe, Fluent and Acceptable Motion Generation and Execution for Human--Robot Interaction in Manufacturing Environments**|Christine Jeoffrion Team|[2606.08741](http://arxiv.org/abs/2606.08741)|null|
+|**2026-06-07**|**PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation**|Jun Zhu Team|[2606.08414](http://arxiv.org/abs/2606.08414)|null|
+|**2026-06-02**|**VLESA: Vision-Language Embodied Safety Agent for Human Activity Monitoring**|Changliu Liu Team|[2606.03954](http://arxiv.org/abs/2606.03954)|null|
+|**2026-05-28**|**From General Vision to Reliable Traversability Estimation: Adapting Vision Foundation Models for Unstructured Outdoor Environments**|Seung-Woo Seo Team|[2605.29565](http://arxiv.org/abs/2605.29565)|null|
 
 ## WAM
 
