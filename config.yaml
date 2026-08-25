@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "jiangranlv"
-repo_name: "robotics-arxiv-daily"
+user_name: "huaigang"
+repo_name: "physicalAI_arXiv_daily"
 show_authors: True
 show_links: True
 show_badge: False
@@ -29,7 +29,12 @@ keywords:
         filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
     "VLA":
         filters: ["Vision Language Action","Vision-Language-Action"]
-    "Humanoid":
-        filters: ["Humanoid Robot", "Humanoid"]
-    "Dexterous":
-        filters: ["Dexterous Manipulation", "Dexterous hand", "Dexterity", "Dexterous"]
+    "Safety":
+        filters: ["Embodied Safety", "Physical Safety", “Interaction Safety”, "Hazard Detection", "Safety Monitor", "Safety Evaluation", "Safety Benchmark"]
+    "WAM":
+        filters: ["World Model", "World Action Model", "World Simulator"]
+    "Evaluation":
+        filters: ["Embodied Simulator", "Robotics Benchmark", "Policy Evaluation for Robotics"]
+    "Failure":
+        filters: ["Robotic Failure Detection", "Failure Anticipation"]
+
