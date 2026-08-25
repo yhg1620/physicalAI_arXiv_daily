@@ -11289,3 +11289,43 @@ layout: default
 |**2023-07-10**|**Utilising Explanations to Mitigate Robot Conversational Failures**|Dimosthenis Kontogiorgos Team|[2307.04462](http://arxiv.org/abs/2307.04462)|null|
 |**2017-06-17**|**dSDiVN: a distributed Software-Defined Networking architecture for Infrastructure-less Vehicular Networks**|Samira Moussaoui Team|[1706.05536](http://arxiv.org/abs/1706.05536)|null|
 
+## Robot&Agent
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-23**|**Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints**|Yuchen Cui Team|[2608.22149](http://arxiv.org/abs/2608.22149)|null|
+|**2026-08-22**|**GenCoord: Skill-Path Commitments under Private Information**|Jianpeng Liang Team|[2608.22055](http://arxiv.org/abs/2608.22055)|**[link](https://github.com/JulianZJN/GenCoord)**|
+|**2026-08-22**|**ViSMoE: Visual-Aware Sparse Mixture-of-Experts for Embodied Referring Expression Grounding**|Piji Li Team|[2608.21878](http://arxiv.org/abs/2608.21878)|null|
+|**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Kin-Man Lam Team|[2608.21247](http://arxiv.org/abs/2608.21247)|null|
+|**2026-08-21**|**Belief Without Behavior: Measuring the Translation of Theory of Mind into Coordinated Social Action in Vision-Language Models**|David Rudrauf Team|[2608.20975](http://arxiv.org/abs/2608.20975)|null|
+|**2026-08-20**|**SafeBranch: Branch-Pair Safety Alignment for Embodied Agents**|Woojin Lee Team|[2608.19729](http://arxiv.org/abs/2608.19729)|null|
+|**2026-08-18**|**Edge-Native Embodied Intelligence for Action-Aware Wireless Edge Networks**|Dong In Kim Team|[2608.17774](http://arxiv.org/abs/2608.17774)|null|
+|**2026-08-20**|**HODAgent: Towards On-Demand, Responsive Humanoids for Physical World Human Interaction**|Jie Chen Team|[2608.17584](http://arxiv.org/abs/2608.17584)|null|
+|**2026-08-18**|**GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting**|Xin Tan Team|[2608.17535](http://arxiv.org/abs/2608.17535)|null|
+|**2026-08-18**|**If, Then, Otherwise: Diagnosing Conditional Branching in Vision-Language Navigation**|Atlas Wang Team|[2608.17318](http://arxiv.org/abs/2608.17318)|**[link](https://condvln.github.io/)**|
+|**2026-08-17**|**Security of Foundation-Model-Powered Embodied Agents: Attack Surfaces, Attacks, Defenses, and Evaluation**|Bowen Xiao Team|[2608.16843](http://arxiv.org/abs/2608.16843)|null|
+|**2026-08-18**|**Breaking Planner Integrity Boundary: Enviroment State-Text Injection Attack on LLM-Driven Embodied Agents**|Hongxin Hu Team|[2608.16806](http://arxiv.org/abs/2608.16806)|null|
+|**2026-08-18**|**Neurosymbolic Embodied Agents**|Pranava Madhyastha Team|[2608.16794](http://arxiv.org/abs/2608.16794)|null|
+|**2026-08-17**|**Zetta $ζ$ : An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence**|Ting Cao Team|[2608.16590](http://arxiv.org/abs/2608.16590)|null|
+|**2026-08-16**|**GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture**|Zheng Zhu Team|[2608.15875](http://arxiv.org/abs/2608.15875)|**[link](https://gigaai.cc/blog/gigabrain07)**|
+|**2026-08-15**|**FloodReasonBench: Benchmarking VLM Reasoning Segmentation for Embodied Flood Response at the Edge**|Nikil Dutt Team|[2608.15410](http://arxiv.org/abs/2608.15410)|null|
+|**2026-08-14**|**Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training**|Wei Wang Team|[2608.14498](http://arxiv.org/abs/2608.14498)|null|
+|**2026-08-14**|**Implementing Computational Law in Wolfram Language for the Governance of Artificial Intelligence**|James K. Wiles Team|[2608.13958](http://arxiv.org/abs/2608.13958)|**[link](https://github.com/Zaffer/research-computational-law)**|
+|**2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Lei Zhu Team|[2608.13453](http://arxiv.org/abs/2608.13453)|null|
+|**2026-08-13**|**Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes**|Louis Nisiotis Team|[2608.13420](http://arxiv.org/abs/2608.13420)|null|
+
+## Robot Task Failure
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**ReconVLA: An Uncertainty-Guided and Failure-Aware Vision-Language-Action Framework for Robotic Control**|William J. Beksi Team|[2604.16677](http://arxiv.org/abs/2604.16677)|null|
+|**2026-07-23**|**Force-Aware Residual DAgger via Trajectory Editing for Precision Insertion with Impedance Control**|Yaran Chen Team|[2603.04038](http://arxiv.org/abs/2603.04038)|null|
+|**2026-02-12**|**Self-Refining Vision Language Model for Robotic Failure Detection and Reasoning**|Yesh Dattatreya Team|[2602.12405](http://arxiv.org/abs/2602.12405)|null|
+|**2026-07-28**|**CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding**|Andrew Markham Team|[2601.02295](http://arxiv.org/abs/2601.02295)|**[link](https://dannymcy.github.io/cyclevla/)**|
+|**2026-08-22**|**Guardian: Detecting Robotic Planning and Execution Errors with Vision-Language Models**|Cordelia Schmid Team|[2512.01946](http://arxiv.org/abs/2512.01946)|**[link](https://www.di.ens.fr/willow/research/guardian/.)**|
+|**2026-02-19**|**I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models**|Mohamed Chetouani Team|[2509.16072](http://arxiv.org/abs/2509.16072)|null|
+|**2025-09-23**|**Enhancing Video-Based Robot Failure Detection Using Task Knowledge**|Paul G. Plöger Team|[2508.18705](http://arxiv.org/abs/2508.18705)|null|
+|**2025-03-21**|**Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**|He Wang Team|[2412.04455](http://arxiv.org/abs/2412.04455)|**[link](https://zhoues.github.io/Code-as-Monitor/)**|
+|**2023-07-10**|**Utilising Explanations to Mitigate Robot Conversational Failures**|Dimosthenis Kontogiorgos Team|[2307.04462](http://arxiv.org/abs/2307.04462)|null|
+|**2017-06-17**|**dSDiVN: a distributed Software-Defined Networking architecture for Infrastructure-less Vehicular Networks**|Samira Moussaoui Team|[1706.05536](http://arxiv.org/abs/1706.05536)|null|
+
