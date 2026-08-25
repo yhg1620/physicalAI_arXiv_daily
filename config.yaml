@@ -32,7 +32,7 @@ keywords:
     "VLA":
         filters: ["Vision Language Action","Vision-Language-Action"]
     "Safety":
-        filters: ["Embodied Safety", "Physical Safety", “Interaction Safety”, "Hazard Detection", "Safety Monitor", "Safety Evaluation", "Safety Benchmark"]
+        filters: ["Embodied Safety", "Physical Safety"]
     "WAM":
         filters: ["World Model", "World Action Model", "World Simulator"]
     "Evaluation":
