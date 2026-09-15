@@ -3303,6 +3303,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-14**|**Beyond Accuracy: Robustness, Cost, and Governance Trade-offs for Vision-Language Models in Templated Document Extraction**|Junlin Jiang Team|[2609.15706](http://arxiv.org/abs/2609.15706)|null|
+|**2026-09-14**|**NoteVQA: Benchmarking VLMs on Real-Life Questions from Human Communities**|Chuan Mu Team|[2609.15695](http://arxiv.org/abs/2609.15695)|null|
+|**2026-09-14**|**Don't Send What You Don't Need: Question-Guided Token Pruning as a Privacy Defense for Vision-Language Models**|Alvi Ataur Khalil Team|[2609.15671](http://arxiv.org/abs/2609.15671)|null|
+|**2026-09-14**|**From Model Patterns to Abstract Semantics in Compositional Zero-Shot Learning**|Fei Su Team|[2609.15649](http://arxiv.org/abs/2609.15649)|null|
+|**2026-09-14**|**Human-Grounded Calibration for Long-Text Image-Text Congruence in Vision-Language Models**|Qiwei Han Team|[2609.15640](http://arxiv.org/abs/2609.15640)|null|
+|**2026-09-14**|**ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs**|Leo Anthony Celi Team|[2609.15635](http://arxiv.org/abs/2609.15635)|null|
+|**2026-09-14**|**A Unified Vision-Language Model for PSMA PET/CT Report Generation, Visual Question Answering, and Lesion Segmentation**|Kuang Gong Team|[2609.15603](http://arxiv.org/abs/2609.15603)|null|
+|**2026-09-14**|**AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation**|Zhiwu Lu Team|[2609.15457](http://arxiv.org/abs/2609.15457)|null|
+|**2026-09-14**|**A Conservative OCR-Enabled Workflow for R214 Sodium Screening of South African Packaged Foods**|Clement Nyirenda Team|[2609.15427](http://arxiv.org/abs/2609.15427)|null|
+|**2026-09-14**|**Planning in the Backbone: DiffAdapterVLA for Native Continuous Trajectory Generation with Driving VLMs**|Yadong Shao Team|[2609.15322](http://arxiv.org/abs/2609.15322)|null|
+|**2026-09-14**|**Pre-PEFT Probing: Weight Statistics and Perturbation Robustness for Layer Selection in VLM Vision Encoders**|Jie Liu Team|[2609.15229](http://arxiv.org/abs/2609.15229)|null|
+|**2026-09-14**|**Rethinking Correctness for Uncertainty Estimation in Clinical Prediction with Vision-Language Models**|Tingting Zhu Team|[2609.15180](http://arxiv.org/abs/2609.15180)|null|
+|**2026-09-14**|**C $^2$ Nav: Compare Before You Commit for Zero-Shot Vision-and-Language Navigation**|Ying Liu Team|[2609.15142](http://arxiv.org/abs/2609.15142)|null|
+|**2026-09-14**|**PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models**|Zishen Zhuang Team|[2609.14973](http://arxiv.org/abs/2609.14973)|**[link](https://deepcybo-physai.github.io/PhysBrain-1.5/)**|
+|**2026-09-13**|**ViTeGate: Visual-Textual Triggered Knowledge Poisoning for Vision-Language Retrieval-Augmented Generation**|Jun Dai Team|[2609.14685](http://arxiv.org/abs/2609.14685)|null|
+|**2026-09-13**|**Compositional SVG Generation via VLM-Driven Hierarchical Semantic Parsing**|Paul Hongsuck Seo Team|[2609.14657](http://arxiv.org/abs/2609.14657)|null|
+|**2026-09-13**|**NavPatch: Evidence-Guided Object-Level Costmap Correction with Vision-Language Models**|Zhengyi Chen Team|[2609.14543](http://arxiv.org/abs/2609.14543)|null|
+|**2026-09-13**|**Selective Tool Use for Agentic Change Visual Question Answering in Remote Sensing**|Mansour Zuair Team|[2609.14523](http://arxiv.org/abs/2609.14523)|null|
+|**2026-09-13**|**Vision Language Models for Radiation Patterns to Antenna Parameters**|Chandra Mohan Bhuma Team|[2609.14447](http://arxiv.org/abs/2609.14447)|null|
+|**2026-09-13**|**A Generative AI Integrated Multimodal Framework for Low-Latency Multi-Camera Person Re-Identification**|Rashmika Nawaratne Team|[2609.14419](http://arxiv.org/abs/2609.14419)|null|
 |**2026-09-10**|**Can Edge-Deployable Vision-Language Models Identify Species?**|Yi Ding Team|[2609.11916](http://arxiv.org/abs/2609.11916)|null|
 |**2026-09-10**|**Combining Synthetic and Real Data for Low-Resource Historical OCR: A Manchu Case Study**|Hanlin Wang Team|[2609.11495](http://arxiv.org/abs/2609.11495)|null|
 |**2026-09-10**|**Routing by Reasoning Need: Trajectory-Aware Decoding Control for Diffusion Vision-Language Models**|Xiaoying Tang Team|[2609.11315](http://arxiv.org/abs/2609.11315)|null|
