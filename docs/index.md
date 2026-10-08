@@ -2,13 +2,31 @@
 layout: default
 ---
 
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input**|Chuan Wen Team|[2610.10534](http://arxiv.org/abs/2610.10534)|null|
+|**2026-10-07**|**EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution**|Shilong Liu Team|[2610.10498](http://arxiv.org/abs/2610.10498)|null|
+|**2026-10-07**|**Robotic Boomerang Throwing via Model-Based Release Design**|Aude Billard Team|[2610.10472](http://arxiv.org/abs/2610.10472)|**[link](https://robot-boomerang.github.io)**|
+|**2026-10-07**|**Self-correction Optimization for Interleaved Multimodal Generation**|Yun Gu Team|[2610.10400](http://arxiv.org/abs/2610.10400)|null|
+|**2026-10-07**|**OpenViTac: Learning and Benchmarking Visuo-Tactile Policies in a Unified Sim-and-Real Framework**|Yu-Gang Jiang Team|[2610.10384](http://arxiv.org/abs/2610.10384)|**[link](https://fvl-repo.github.io/OpenViTac/)**|
+|**2026-10-07**|**TouchScale: 500 Hours of Human Vision and Touch for Visual-Tactile Learning**|Zhiwen Fan Team|[2610.10288](http://arxiv.org/abs/2610.10288)|**[link](https://touch-scale.github.io/)**|
+|**2026-10-07**|**Towards Accurate End-Effector Localization for UMI-Style Robotic Manipulation Teaching**|Jie Yin Team|[2610.09857](http://arxiv.org/abs/2610.09857)|**[link](https://mild-web.github.io)**|
+|**2026-10-07**|**RoboPace: Contact-Aware Time-Optimal Retiming for Action-Chunk Policies**|Kei Ota Team|[2610.09696](http://arxiv.org/abs/2610.09696)|**[link](https://robopace.airoa.io/)**|
+|**2026-10-07**|**Targeted Modality Dropout for Real-Robot Manipulation Robust to Intermittent Vision Loss**|Kanata Suzuki Team|[2610.09566](http://arxiv.org/abs/2610.09566)|null|
+|**2026-10-07**|**Contact-Aware Imitation Learning Through Contact Factorization**|Mingyo Seo Team|[2610.09533](http://arxiv.org/abs/2610.09533)|null|
+|**2026-10-07**|**Sparse Feature Policy Unlearning Mitigates State Hallucination in Vision-Language-Action Models**|Eunwoo Kim Team|[2610.09496](http://arxiv.org/abs/2610.09496)|null|
+|**2026-10-07**|**RLHND: Video Foundation Models as Physically Grounded Hand Trackers for Robot Learning**|Jinwoo Shin Team|[2610.09455](http://arxiv.org/abs/2610.09455)|null|
+|**2026-10-07**|**RobotAPO: Adversarial Physics Preference Optimization for Robotic Manipulation Video Generation**|Huaibo Huang Team|[2610.09454](http://arxiv.org/abs/2610.09454)|null|
+|**2026-10-07**|**Immiscible Diffusion Policy: Preserving Multimodal Robot Actions through Label-Free Noise Assignment**|Yiheng Li Team|[2610.09369](http://arxiv.org/abs/2610.09369)|null|
+|**2026-10-07**|**Predicted Futures Are Not Enough: Learning Executable Goals for Robot Manipulation**|YuanFu Yang Team|[2610.09309](http://arxiv.org/abs/2610.09309)|**[link](https://claire0730.github.io/executable-goals/)**|
+|**2026-10-06**|**Co-Evolving Robot Orchestrators and Policies through Deployment**|Marco Pavone Team|[2610.09228](http://arxiv.org/abs/2610.09228)|null|
+|**2026-10-06**|**Fast Planning for Multi-object Multi-target Throwing**|Aude Billard Team|[2610.09224](http://arxiv.org/abs/2610.09224)|**[link](https://liuyangdh.github.io/momt-video)**|
+|**2026-10-06**|**Beyond Reconstruction: What Matters in Action Tokenization for Robot Policies?**|Matthew Walter Team|[2610.09170](http://arxiv.org/abs/2610.09170)|null|
 |**2026-10-06**|**DepthWorld: 3D World Model for Robot Manipulation**|Vladimir Petrik Team|[2610.08780](http://arxiv.org/abs/2610.08780)|**[link](https://www.jaibardhan.com/depthworld.)**|
 |**2026-10-06**|**EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning**|Anirudha Majumdar Team|[2610.08726](http://arxiv.org/abs/2610.08726)|**[link](https://ego-lap.github.io/)**|
 |**2026-10-06**|**Fast Non-Parametric Heteroscedastic Imitation Learning With Geometric Priors**|João Silvério Team|[2610.08650](http://arxiv.org/abs/2610.08650)|null|
@@ -3597,6 +3615,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models**|Yuchen Cui Team|[2610.10526](http://arxiv.org/abs/2610.10526)|**[link](https://sttawm.github.io/rephrase-before-you-act)**|
+|**2026-10-07**|**Detecting Adversarial Images through Response Profiles of Vision-Language Models**|Roozbeh Razavi-Far Team|[2610.10436](http://arxiv.org/abs/2610.10436)|null|
+|**2026-10-07**|**$Δ$ Representation: Geometry Supervised Representation Learning of Phenotypes via Counterfactual Reasoning for Medical VLMs**|Lei Bi Team|[2610.10286](http://arxiv.org/abs/2610.10286)|null|
+|**2026-10-07**|**Geometry-Supervised Visual Representation Learning for Multi-Phenotype Lesion Interpretation in Medical VLMs**|Lei Bi Team|[2610.10238](http://arxiv.org/abs/2610.10238)|null|
+|**2026-10-07**|**Do Vision-Language-Action Models Understand Instructions? A Mechanistic Interpretability Study on Language Grounding**|Angelo Cangelosi Team|[2610.10178](http://arxiv.org/abs/2610.10178)|null|
+|**2026-10-07**|**Beyond Anonymous Captions: Grounding Character Identity in Video Captioning and Question Answering**|Yannis Tevissen Team|[2610.10163](http://arxiv.org/abs/2610.10163)|null|
+|**2026-10-07**|**HeiCo-FOCUS: A Clinically Grounded Dataset for Long-Context Video Understanding**|Lena Maier-Hein Team|[2610.10156](http://arxiv.org/abs/2610.10156)|**[link](https://github.com/IMSY-DKFZ/orena-focus)**|
+|**2026-10-07**|**Purifying Backdoored Large Vision-Language Models by Removing Hijacked Directions**|Lei Feng Team|[2610.09941](http://arxiv.org/abs/2610.09941)|null|
+|**2026-10-07**|**Inverting Multi-Vector Visual Document Indices**|Yu Xiao Team|[2610.09920](http://arxiv.org/abs/2610.09920)|null|
+|**2026-10-07**|**FedSSMCoOp: SSM Encoders for light-weight Federated Prompt Learning for Few-shot Classification**|C. Krishna Mohan Team|[2610.09907](http://arxiv.org/abs/2610.09907)|null|
+|**2026-10-07**|**UltraText Bench: A Comprehensive Bilingual Benchmark for Evaluating Visual Text Rendering in Image Generation**|Tao Lin Team|[2610.09823](http://arxiv.org/abs/2610.09823)|null|
+|**2026-10-07**|**End-to-End Autonomous Generation of Human Assembly Plans**|Mark D. Fuge Team|[2610.09781](http://arxiv.org/abs/2610.09781)|null|
+|**2026-10-07**|**YUBI-STAG: Contact and Semantic-Rich Alignment for VLAs via Automated Video-Language Grounding**|Kei Ota Team|[2610.09718](http://arxiv.org/abs/2610.09718)|**[link](https://yubi-stag.airoa.io/)**|
+|**2026-10-07**|**Black-Box Adversarial Patch Attacks on VLAs via Ancestor VLM Exploitation**|Song Guo Team|[2610.09708](http://arxiv.org/abs/2610.09708)|null|
+|**2026-10-07**|**Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs**|Lianli Gao Team|[2610.09703](http://arxiv.org/abs/2610.09703)|null|
+|**2026-10-07**|**System Switch: When Should a Fast Decision Model Stop and Think?**|Gian Luca Bailo Team|[2610.09683](http://arxiv.org/abs/2610.09683)|**[link](https://github.com/dexmac221/doomgemma)**|
+|**2026-10-07**|**Adaptive Code Generation for Controlling Robots**|Odej Kao Team|[2610.09588](http://arxiv.org/abs/2610.09588)|null|
+|**2026-10-07**|**Visual Evidence Under Cross-Examination: Evaluating and Controlling Decision-Level Evidence Use in Vision-Language Models**|Ye Li Team|[2610.09550](http://arxiv.org/abs/2610.09550)|null|
+|**2026-10-07**|**Not All Uncertainty Matters: Simulation-in-the-Loop Fast-Slow Reasoning for Decision-Critical Autonomous Driving System**|Kaibin Huang Team|[2610.09520](http://arxiv.org/abs/2610.09520)|null|
+|**2026-10-07**|**It Is Not Seeing the Hazard: A Frozen Vision-Language Safety Score Measures Its Caption Bank**|Cody Fleming Team|[2610.09517](http://arxiv.org/abs/2610.09517)|null|
 |**2026-10-06**|**World Models' Last Exam in Physics**|Qinhuai Na Team|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
 |**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Jia Pan Team|[2610.08784](http://arxiv.org/abs/2610.08784)|**[link](https://song-kun.github.io/pears)**|
 |**2026-10-06**|**ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing**|Yuqian Zhou Team|[2610.08779](http://arxiv.org/abs/2610.08779)|**[link](https://real-time-video-research.github.io/alive/)**|
@@ -9483,6 +9521,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models**|Yuchen Cui Team|[2610.10526](http://arxiv.org/abs/2610.10526)|**[link](https://sttawm.github.io/rephrase-before-you-act)**|
+|**2026-10-07**|**Q-Learning with Scalar Adjoint Matching**|Jinwoo Shin Team|[2610.10437](http://arxiv.org/abs/2610.10437)|null|
+|**2026-10-07**|**Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving**|Jianbing Shen Team|[2610.10390](http://arxiv.org/abs/2610.10390)|**[link](https://github.com/TabGuigui/GeoCoTDrive)**|
+|**2026-10-07**|**Do Vision-Language-Action Models Understand Instructions? A Mechanistic Interpretability Study on Language Grounding**|Angelo Cangelosi Team|[2610.10178](http://arxiv.org/abs/2610.10178)|null|
+|**2026-10-07**|**Many Ways to Succeed: Diversity-Driven RL Fine-Tuning for VLA Generalization**|Zhi Wang Team|[2610.09943](http://arxiv.org/abs/2610.09943)|null|
+|**2026-10-07**|**Juno: Taming Predictive Latents for Vision-Language-Action Models**|Wentao Zhu Team|[2610.09940](http://arxiv.org/abs/2610.09940)|**[link](https://juno-policy.github.io/)**|
+|**2026-10-07**|**YUBI-STAG: Contact and Semantic-Rich Alignment for VLAs via Automated Video-Language Grounding**|Kei Ota Team|[2610.09718](http://arxiv.org/abs/2610.09718)|**[link](https://yubi-stag.airoa.io/)**|
+|**2026-10-07**|**SpikingVLA: Asynchronous Spiking Vision-Language-Action Models**|Haizhou Li Team|[2610.09710](http://arxiv.org/abs/2610.09710)|null|
+|**2026-10-07**|**Black-Box Adversarial Patch Attacks on VLAs via Ancestor VLM Exploitation**|Song Guo Team|[2610.09708](http://arxiv.org/abs/2610.09708)|null|
+|**2026-10-07**|**RoboPace: Contact-Aware Time-Optimal Retiming for Action-Chunk Policies**|Kei Ota Team|[2610.09696](http://arxiv.org/abs/2610.09696)|**[link](https://robopace.airoa.io/)**|
+|**2026-10-07**|**Sparse Feature Policy Unlearning Mitigates State Hallucination in Vision-Language-Action Models**|Eunwoo Kim Team|[2610.09496](http://arxiv.org/abs/2610.09496)|null|
+|**2026-10-07**|**TMT: Runtime Backdoor Detection for Vision-Language-Action Policies on Unseen Tasks**|Hong Jia Team|[2610.09462](http://arxiv.org/abs/2610.09462)|null|
+|**2026-10-07**|**TempoBridge: Language-Guided Tempo Control for Vision-Language-Action Policies**|Sungho Jo Team|[2610.09451](http://arxiv.org/abs/2610.09451)|**[link](https://lysees.github.io/tempobridge-page/)**|
+|**2026-10-06**|**Co-Evolving Robot Orchestrators and Policies through Deployment**|Marco Pavone Team|[2610.09228](http://arxiv.org/abs/2610.09228)|null|
+|**2026-10-06**|**Beyond Reconstruction: What Matters in Action Tokenization for Robot Policies?**|Matthew Walter Team|[2610.09170](http://arxiv.org/abs/2610.09170)|null|
+|**2026-10-06**|**DIVA: Dual-Space Intent-Aware Visual Attenuation for Vision-Language-Action Policies**|Ang Li Team|[2610.09144](http://arxiv.org/abs/2610.09144)|null|
+|**2026-10-06**|**PAIR: Bridging Perception and Action in Vision-Language-Action Models**|Ang li Team|[2610.09016](http://arxiv.org/abs/2610.09016)|null|
+|**2026-10-06**|**CARE: Certifying Acceleration for Vision-Language-Action Inference**|Zhipeng Wang Team|[2610.08917](http://arxiv.org/abs/2610.08917)|null|
 |**2026-10-06**|**WareFly-VLA: A Vision-Language-Action Framework for UAV Navigation and Human Tracking in Smart Warehouses**|H. Nguyen-Xuan Team|[2610.08526](http://arxiv.org/abs/2610.08526)|null|
 |**2026-10-06**|**ActTune: Action-Aware Precision and GPU Operating-Point Adaptation for Energy-Efficient Vision-Language-Action Inference**|Tulika Mitra Team|[2610.08444](http://arxiv.org/abs/2610.08444)|null|
 |**2026-10-06**|**MIM-VLA: Learning Physical Interaction Representations from Gripper Motor Feedback**|Andrew Jaeyong Choi Team|[2610.08425](http://arxiv.org/abs/2610.08425)|null|
