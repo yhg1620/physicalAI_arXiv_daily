@@ -11497,6 +11497,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration**|Sven Hallerbach Team|[2610.09891](http://arxiv.org/abs/2610.09891)|null|
+|**2026-10-07**|**RT-Safe: Benchmarking Agent Safety in Real-Time Embodied Environment**|Lianhui Qin Team|[2610.09294](http://arxiv.org/abs/2610.09294)|null|
 |**2026-10-06**|**End-to-End Safe Social Navigation via Multi-Task Reinforcement Learning and Probabilistic Perception**|Alexandre Alahi Team|[2610.05733](http://arxiv.org/abs/2610.05733)|null|
 |**2026-09-30**|**Blackout vs. Freeze: Analyzing Physical Failure Modes of VLAs under Camera Faults**|Yohan Jo Team|[2609.39145](http://arxiv.org/abs/2609.39145)|null|
 |**2026-09-29**|**Aligned Data Can Induce Misalignment via Context Confusion**|Sai Praneeth Karimireddy Team|[2609.38379](http://arxiv.org/abs/2609.38379)|null|
@@ -11553,6 +11555,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Long-WAM: Scaling the Context of World-Action Models**|Yukang Chen Team|[2610.10528](http://arxiv.org/abs/2610.10528)|null|
+|**2026-10-07**|**RoboJEPA: Scaling Robotic Latent World Models**|Mahmoud Assran Team|[2610.10515](http://arxiv.org/abs/2610.10515)|null|
+|**2026-10-07**|**Sparse Planning in Visual World Models via Cost Gradients**|Edward Grefenstette Team|[2610.10274](http://arxiv.org/abs/2610.10274)|**[link](https://ycxuyingchen.github.io/costgrad/)**|
+|**2026-10-07**|**Video Prediction Policy 2: Predict Better, Act Better**|Jianyu Chen Team|[2610.10270](http://arxiv.org/abs/2610.10270)|null|
+|**2026-10-07**|**RealtimeWAM: How Fast Can I Run My World Action Model?**|Zhi Wang Team|[2610.10079](http://arxiv.org/abs/2610.10079)|**[link](https://anonymous.4open.science/w/realtimewam/)**|
+|**2026-10-07**|**Juno: Taming Predictive Latents for Vision-Language-Action Models**|Wentao Zhu Team|[2610.09940](http://arxiv.org/abs/2610.09940)|**[link](https://juno-policy.github.io/)**|
+|**2026-10-07**|**UltraWorld: Learning Interactive Ultrasound World Models from Untracked Clinical Videos with Acoustic Sampling Map**|Hongliang Ren Team|[2610.09785](http://arxiv.org/abs/2610.09785)|null|
+|**2026-10-07**|**Beyond Policy Support: Interaction Constrained Offline Reinforcement Learning for Autonomous Driving**|Karl Henrik Johansson Team|[2610.09763](http://arxiv.org/abs/2610.09763)|null|
+|**2026-10-07**|**ΔWAM: Distilling Action Tangent Fields into World Action Models**|Wenchao Ding Team|[2610.09734](http://arxiv.org/abs/2610.09734)|null|
+|**2026-10-07**|**PCDT: A Predictive Cognitive Digital Twin Framework for Intelligent and Autonomous 6G Network Ecosystems**|Fabrizio Granelli Team|[2610.09546](http://arxiv.org/abs/2610.09546)|null|
+|**2026-10-07**|**STRIKE: Learning Visual State Transitions for Physical World Modeling**|Wei Zhan Team|[2610.09514](http://arxiv.org/abs/2610.09514)|null|
+|**2026-10-07**|**DSReg: Provably Recovering Individual World Latents without Reconstruction**|Bernhard Schölkopf Team|[2610.09457](http://arxiv.org/abs/2610.09457)|**[link](https://dsreg.github.io/)**|
+|**2026-10-07**|**Controllable Crowd Generation through World-Model Planning**|Hae-Gon Jeon Team|[2610.09438](http://arxiv.org/abs/2610.09438)|**[link](https://jungyu0413.github.io/Ctrl-CWM)**|
+|**2026-10-07**|**Event-Aligned Visual Action Reasoning for World Action Models**|Yanzhi Wang Team|[2610.09427](http://arxiv.org/abs/2610.09427)|**[link](https://xiaomeng-yang.github.io/Event-aligned-WAM/)**|
+|**2026-10-07**|**SearchWorld: Spatial Value-Grounded Imagination for UAV Object Search via World Models**|Quanjun Yin Team|[2610.09335](http://arxiv.org/abs/2610.09335)|null|
+|**2026-10-07**|**Predicted Futures Are Not Enough: Learning Executable Goals for Robot Manipulation**|YuanFu Yang Team|[2610.09309](http://arxiv.org/abs/2610.09309)|**[link](https://claire0730.github.io/executable-goals/)**|
+|**2026-10-07**|**vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation**|vLLM-Omni Team Team|[2610.09307](http://arxiv.org/abs/2610.09307)|null|
+|**2026-10-07**|**Kuration SDK: Addressing the Virtual2Real Gap via Data Curation**|Kunal Sawarkar Team|[2610.09305](http://arxiv.org/abs/2610.09305)|null|
+|**2026-10-07**|**LeCuration: A Tiny World Model as a Data Curation Multi-Tool**|Kunal Sawarkar Team|[2610.09285](http://arxiv.org/abs/2610.09285)|null|
+|**2026-10-06**|**Patient, Place, Prior (P $^3$ ): What Counts as Personalization in Medical World Models?**|Yang Yang Team|[2610.09194](http://arxiv.org/abs/2610.09194)|null|
 |**2026-10-06**|**World Models' Last Exam in Physics**|Qinhuai Na Team|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
 |**2026-10-06**|**DepthWorld: 3D World Model for Robot Manipulation**|Vladimir Petrik Team|[2610.08780](http://arxiv.org/abs/2610.08780)|**[link](https://www.jaibardhan.com/depthworld.)**|
 |**2026-10-06**|**CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching**|Xinyu Zhang Team|[2610.08777](http://arxiv.org/abs/2610.08777)|**[link](https://wrecklong.github.io/CtrlCache/)**|
@@ -12042,6 +12064,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**OpenViTac: Learning and Benchmarking Visuo-Tactile Policies in a Unified Sim-and-Real Framework**|Yu-Gang Jiang Team|[2610.10384](http://arxiv.org/abs/2610.10384)|**[link](https://fvl-repo.github.io/OpenViTac/)**|
+|**2026-10-07**|**RobotAPO: Adversarial Physics Preference Optimization for Robotic Manipulation Video Generation**|Huaibo Huang Team|[2610.09454](http://arxiv.org/abs/2610.09454)|null|
+|**2026-10-07**|**RT-Safe: Benchmarking Agent Safety in Real-Time Embodied Environment**|Lianhui Qin Team|[2610.09294](http://arxiv.org/abs/2610.09294)|null|
+|**2026-10-06**|**SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation**|Boxin Shi Team|[2610.08941](http://arxiv.org/abs/2610.08941)|**[link](https://alaya-lab.github.io/SPW-Nav)**|
+|**2026-10-06**|**Toward Evidence-Driven Human-Agent-Robot Teaming for Earth-Independent Anomaly Triage**|Samira Shalal Team|[2610.08933](http://arxiv.org/abs/2610.08933)|null|
 |**2026-10-06**|**SpaTime: Streaming Vision-Language Models for Spatio-temporal Reasoning**|Raymond A. Yeh Team|[2610.08713](http://arxiv.org/abs/2610.08713)|null|
 |**2026-10-06**|**EMHO: EMbodied Agent Harness Optimization via Experience Traces**|Yong Jae Lee Team|[2610.08432](http://arxiv.org/abs/2610.08432)|null|
 |**2026-10-06**|**Attacca: Goal-Directed Control under State Continuity for Long-Horizon Embodied Agents**|Jaehong Yoon Team|[2610.07785](http://arxiv.org/abs/2610.07785)|**[link](https://attacca-project.github.io)**|
