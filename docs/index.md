@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance**|Jiachen Li Team|[2610.20607](http://arxiv.org/abs/2610.20607)|**[link](https://hire-moma.github.io/)**|
+|**2026-10-14**|**Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion**|Koushil Sreenath Team|[2610.20606](http://arxiv.org/abs/2610.20606)|**[link](https://humanoid-weight-diffusion.github.io/)**|
+|**2026-10-14**|**Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation**|Chenjia Bai Team|[2610.20504](http://arxiv.org/abs/2610.20504)|**[link](https://gr-bc.github.io/)**|
+|**2026-10-14**|**Hyperspherical Contrastive Representations Unlock Planning and Exploration**|Benjamin Eysenbach Team|[2610.20409](http://arxiv.org/abs/2610.20409)|**[link](https://jonghaepark.github.io/c-slerp)**|
+|**2026-10-14**|**AutoRSR: Automated Real-to-Sim-to-Real Data Generation for Scalable Robot Learning**|Qin Jin Team|[2610.20336](http://arxiv.org/abs/2610.20336)|null|
+|**2026-10-14**|**TacClaw-Infinity: A Large-Scale Vision-Tactile-Language-Action Dataset for Dexterous Manipulation**|Weihao Yuan Team|[2610.20320](http://arxiv.org/abs/2610.20320)|null|
+|**2026-10-14**|**ObjDream: Guiding Vision-Language-Action Models with Object-Level Understanding and Future State Prediction**|Jianhua Sun Team|[2610.20223](http://arxiv.org/abs/2610.20223)|**[link](https://huailiangma.github.io/objdream/)**|
+|**2026-10-14**|**Tactile-Guided Robot Learning: From Representation Learning to Foundation Models**|Thomas George Thuruthel Team|[2610.20134](http://arxiv.org/abs/2610.20134)|null|
+|**2026-10-14**|**MorphAct: Robot Policies Morphing with the Worlds They Act In**|Bo Zhao Team|[2610.20019](http://arxiv.org/abs/2610.20019)|**[link](https://mint-sjtu.github.io/MorphAct.io/)**|
+|**2026-10-14**|**MUCO: A Mani-Unit-Structured Manipulation Framework for Compositional Long-Horizon Robot Tasks**|Changbo Wang Team|[2610.19913](http://arxiv.org/abs/2610.19913)|null|
+|**2026-10-14**|**Refine Actions If Needed: Adaptive Action Chunk Refinement for Robot Manipulation**|Fangqiang Ding Team|[2610.19765](http://arxiv.org/abs/2610.19765)|null|
+|**2026-10-14**|**Coordi-pi: Coordination-Aware Dual-Hand Action Representation for Bimanual Dexterous Manipulation**|Yao Mu Team|[2610.19753](http://arxiv.org/abs/2610.19753)|null|
+|**2026-10-14**|**One-shot Human Video-Guided Adaptation for Vision-Language-Action Models**|Yunde Jia Team|[2610.19746](http://arxiv.org/abs/2610.19746)|null|
+|**2026-10-14**|**ACRO: Actor-Critic Rollout Orchestration**|Nojun Kwak Team|[2610.19677](http://arxiv.org/abs/2610.19677)|null|
+|**2026-10-14**|**Eye, Robot: Learning Expressive Gaze Dynamics via a VLM-Guided Transformer-VAE**|Hod Lipson Team|[2610.19635](http://arxiv.org/abs/2610.19635)|null|
+|**2026-10-14**|**ForceBench: Benchmarking Force Integration for Robotic Manipulation**|Zhibo Pang Team|[2610.19604](http://arxiv.org/abs/2610.19604)|**[link](https://forcebench-platform.github.io/)**|
+|**2026-10-14**|**Cracking Mobile Manipulation: From Failure Diagnosis to Agentic Robot System**|Yiwu Zhong Team|[2610.19600](http://arxiv.org/abs/2610.19600)|null|
+|**2026-10-14**|**Active Generative Simulation: Meta-Learning What to Simulate for Sim-and-Real Policy Co-Training**|Danfei Xu Team|[2610.19479](http://arxiv.org/abs/2610.19479)|null|
+|**2026-10-13**|**Collective Learning for Unified Robotic Manipulation via Predictive Dynamics Adaptation**|Alois Knoll Team|[2610.19141](http://arxiv.org/abs/2610.19141)|null|
+|**2026-10-13**|**DexMimic: A Generalist Dexterous Hand-Object Tracking Policy via Value-Guided Reset Allocation**|Lin Shao Team|[2610.19089](http://arxiv.org/abs/2610.19089)|**[link](https://zhexiluo.github.io/DexMimic/)**|
 |**2026-10-13**|**Contact Trajectory Prompting: In-Context Transfer of Contact-Rich Behaviors from a Single Demonstration**|Shuicheng Yan Team|[2610.18848](http://arxiv.org/abs/2610.18848)|null|
 |**2026-10-13**|**RoboSimStudio: An Interactive Toolkit for Rapid Real2Sim of Robot Manipulation Tasks**|Ken Goldberg Team|[2610.18835](http://arxiv.org/abs/2610.18835)|**[link](https://robosimstudio.github.io)**|
 |**2026-10-13**|**EqC: Equilibrium Energy Control for Introspective Lifelong Robot Learning**|Hang Zhao Team|[2610.18790](http://arxiv.org/abs/2610.18790)|null|
@@ -12376,6 +12396,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents**|Daling Wang Team|[2610.20474](http://arxiv.org/abs/2610.20474)|null|
+|**2026-10-14**|**F2A-ObjectNav: An Adaptive Agentic Architecture for Object-Goal Navigation**|Alireza Taheri Team|[2610.19618](http://arxiv.org/abs/2610.19618)|null|
+|**2026-10-14**|**From Failures to Learnable Worlds: Policy-Conditioned Environment Generation for Navigation Agents**|Mohit Bansal Team|[2610.19420](http://arxiv.org/abs/2610.19420)|**[link](https://zhangyuejoslin.github.io/WEDGE/)**|
+|**2026-10-13**|**Towards a Data-Centric Understanding of Spatial Reasoning in Multimodal Large Language Models**|Osmar R. Zaiane Team|[2610.19108](http://arxiv.org/abs/2610.19108)|null|
 |**2026-10-13**|**Two Routes to Interoceptive Prioritisation: Dissociating Likelihood Precision and Preference Reweighting in Active Inference**|Jonathan P. Shock Team|[2610.18617](http://arxiv.org/abs/2610.18617)|**[link](https://github.com/sgrimbly/interoceptive-prioritisation-iwai2026-snapshot)**|
 |**2026-10-13**|**MemAct: Streaming Spatial Understanding with Memory and Active Exploration**|Xiaojuan Qi Team|[2610.17640](http://arxiv.org/abs/2610.17640)|null|
 |**2026-10-12**|**Observe, Share, or Predict? Disentangling Partner Information in Embodied Multi-Agent Collaboration**|Tommaso Campari Team|[2610.16895](http://arxiv.org/abs/2610.16895)|null|
