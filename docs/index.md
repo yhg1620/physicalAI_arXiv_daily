@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -12680,6 +12680,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**CLOSER: Evidence-Aware Active Visual Verification for Embodied Object-Goal Navigation**|Chang Liu Team|[2610.28476](http://arxiv.org/abs/2610.28476)|null|
+|**2026-10-20**|**CAPSafe: A Benchmark for Contextual Action and Plan Safety Reasoning in Embodied Agents**|Rama Doddipatla Team|[2610.28381](http://arxiv.org/abs/2610.28381)|null|
+|**2026-10-20**|**CovNav: Conformal Prediction-Guided Adaptive Inference for Object Goal Navigation**|Chang Liu Team|[2610.27677](http://arxiv.org/abs/2610.27677)|null|
+|**2026-10-20**|**JARVIS: From Visual Manuals to Autonomous Robotic Assembly**|Yan Wu Team|[2610.27618](http://arxiv.org/abs/2610.27618)|null|
+|**2026-10-19**|**LVMem: Image-Augmented Memory for Long-Horizon Question Answering**|Dmitry Yudin Team|[2610.27104](http://arxiv.org/abs/2610.27104)|null|
 |**2026-10-19**|**Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience**|Ziwei Liu Team|[2610.26855](http://arxiv.org/abs/2610.26855)|**[link](https://ropedia.github.io/ropedia-w0/)**|
 |**2026-10-19**|**PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements**|Jiangning Zhang Team|[2610.26711](http://arxiv.org/abs/2610.26711)|null|
 |**2026-10-19**|**BetaMem: Learning to Remember a Changing World for Embodied Agents**|Wulong Liu Team|[2610.26554](http://arxiv.org/abs/2610.26554)|null|
