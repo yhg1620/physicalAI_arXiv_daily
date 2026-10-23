@@ -12892,6 +12892,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**A Sparse Topometric Graph for Scalable Cross-Session Indoor Navigation**|Young Min Kim Team|[2610.31432](http://arxiv.org/abs/2610.31432)|null|
+|**2026-10-22**|**HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games**|Bo Dai Team|[2610.31162](http://arxiv.org/abs/2610.31162)|null|
+|**2026-10-22**|**Know When to Escalate: Critic-Guided Adaptive Execution for Cloud-Local Embodied Agents**|Charles Fleming Team|[2610.30587](http://arxiv.org/abs/2610.30587)|null|
+|**2026-10-21**|**Externalise the Memory: A Pre-Registered Study of Where an Embodied Agent's Experience Should Live**|Cheng-Yin Tu Team|[2610.30478](http://arxiv.org/abs/2610.30478)|**[link](https://github.com/TPEmist/AionGenos)**|
+|**2026-10-21**|**Alpha: Systematic Fault Injection and Robustness Evaluation for LLM-Driven Embodied Manipulation**|Jona Joy Team|[2610.30197](http://arxiv.org/abs/2610.30197)|**[link](https://github.com/jonajoy142/embodied-agent-chaos)**|
 |**2026-10-21**|**Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use**|Mike Zheng Shou Team|[2610.30108](http://arxiv.org/abs/2610.30108)|**[link](https://showlab.github.io/Awesome-Multimodal-Embodied-Agent/)**|
 |**2026-10-21**|**TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments**|Jiangning Zhang Team|[2610.30043](http://arxiv.org/abs/2610.30043)|**[link](https://xuyicheng-zju.github.io/TARSphere/)**|
 |**2026-10-21**|**DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos**|Shuhei Kurita Team|[2610.29936](http://arxiv.org/abs/2610.29936)|**[link](https://narusuzuki.github.io/projects/26-dewhand/)**|
