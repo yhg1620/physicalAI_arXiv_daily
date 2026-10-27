@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**Enhancing Deep Reinforcement Learning for Robotic Motion Planning via Task Decomposition**|Gualtiero Colombo Team|[2610.35494](http://arxiv.org/abs/2610.35494)|null|
+|**2026-10-26**|**RoKON: Efficient and Adaptive Data-Enabled Predictive Control for Robotic Manipulation**|Frederike Dümbgen Team|[2610.35458](http://arxiv.org/abs/2610.35458)|null|
 |**2026-10-26**|**MMGNet: Multi-Modal 6-DoF Grasp Synthesis for Cluttered Scenes**|Yun-Hui Liu Team|[2610.34893](http://arxiv.org/abs/2610.34893)|null|
 |**2026-10-26**|**Behavioural Quality Is Not Learning Utility: Objective Mismatch in Human Behaviour Models for Robot Learning**|Pamela Carreno-Medrano Team|[2610.34839](http://arxiv.org/abs/2610.34839)|**[link](https://objective-mismatch-hri.github.io/supplementary/)**|
 |**2026-10-26**|**RobotAgentBench: Towards Open-world Robot Autonomy**|Biwei Huang Team|[2610.34649](http://arxiv.org/abs/2610.34649)|**[link](https://aetherlabsai.github.io/RobotAgentBench/)**|
@@ -3849,6 +3851,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent**|Shyamal Buch Team|[2610.35817](http://arxiv.org/abs/2610.35817)|null|
+|**2026-10-26**|**Explainable Multimodal AI Approach to Reduce Unnecessary Breast Biopsies**|Jose Gerardo Tamez-Peña Team|[2610.35704](http://arxiv.org/abs/2610.35704)|null|
+|**2026-10-26**|**TrySee: Modular Perception-Enhanced VLM Grounding for Closed-Loop Robot Task Planning in Specialized Domains**|Arne Roennau Team|[2610.35687](http://arxiv.org/abs/2610.35687)|null|
+|**2026-10-26**|**ArchiveLens: A Generative Spatial Knowledge Framework for Semantic Reconstruction of Historical Maps**|Chengbin Deng Team|[2610.35606](http://arxiv.org/abs/2610.35606)|null|
+|**2026-10-26**|**Hypergraph-Enhanced Evidence Selection for Long-Context Multimodal Document QA**|Lei Chen Team|[2610.35542](http://arxiv.org/abs/2610.35542)|null|
+|**2026-10-26**|**TP-JSCC: Efficient Token Pruning and Joint Source-Channel Coding for LVLMs-based 3D-VQA in Cloud-Edge Collaboration**|Sam Kwong Team|[2610.35489](http://arxiv.org/abs/2610.35489)|null|
+|**2026-10-26**|**Shared Context, Separate Engines: Streaming Vision--Language Inference on Edge SoCs**|Suman Banerjee Team|[2610.35309](http://arxiv.org/abs/2610.35309)|null|
+|**2026-10-26**|**Beyond Vision-Language Models: Visual-Semantic Affect Graphs for Emotion Recognition in Artworks**|Hideaki Takeda Team|[2610.35244](http://arxiv.org/abs/2610.35244)|null|
 |**2026-10-26**|**Improving VLMs on Scientific Chart Analysis via Autonomous Evolution**|Vaggos Chatziafratis Team|[2610.35077](http://arxiv.org/abs/2610.35077)|**[link](https://github.com/AbhinavDubey30/VLM-Autonomous-Evolution)**|
 |**2026-10-26**|**LOCUS: Locate Once, Check Until Settled. Draft-and-Verify Visual Grounding with a Box Head and Coordinate-Token Verification**|Muhammad Talha Team|[2610.35053](http://arxiv.org/abs/2610.35053)|**[link](https://muhammad-talha-ad.github.io/LOCUS/)**|
 |**2026-10-26**|**Reason or Recite: Complementary Specialists with an LLM Judge for Traffic Anomaly Reasoning**|Mayur Kulkarni Team|[2610.34993](http://arxiv.org/abs/2610.34993)|null|
@@ -10011,6 +10021,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy**|Chunhua Shen Team|[2610.35832](http://arxiv.org/abs/2610.35832)|**[link](https://internrobotics.github.io/EBench-Astra-Tech-Report/)**|
+|**2026-10-26**|**Robot-Aligned 3D Gaussian Splatting for Precise Reaching with Wrist-Camera VLA Policies**|Xiao Liang Team|[2610.35626](http://arxiv.org/abs/2610.35626)|null|
 |**2026-10-26**|**JevVLA: Jev-Inspired Energy-Based Adaptation for Vision-Language-Action Policies**|Yueting Zhuang Team|[2610.35010](http://arxiv.org/abs/2610.35010)|null|
 |**2026-10-26**|**Beyond Behaviour: A Stimulus-Response Safety Evaluation of Vision-Language-Action Models**|Dinh Phung Team|[2610.34837](http://arxiv.org/abs/2610.34837)|null|
 |**2026-10-26**|**VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware**|Michael Heinrich Team|[2610.34717](http://arxiv.org/abs/2610.34717)|null|
@@ -12252,6 +12264,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**OSWAM: An Effective World Action Model with One-Step Action Generation**|Lei Zhang Team|[2610.35850](http://arxiv.org/abs/2610.35850)|null|
+|**2026-10-26**|**Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy**|Chunhua Shen Team|[2610.35832](http://arxiv.org/abs/2610.35832)|**[link](https://internrobotics.github.io/EBench-Astra-Tech-Report/)**|
+|**2026-10-26**|**World Model for Energy Efficiency Maximization in Dynamic Metasurface Antennas**|Mehdi Rasti Team|[2610.35813](http://arxiv.org/abs/2610.35813)|null|
+|**2026-10-26**|**Adapt for Planning, Not just Prediction: Optimistic Test-Time World Model Adaptation**|P. R. Kumar Team|[2610.35636](http://arxiv.org/abs/2610.35636)|null|
+|**2026-10-26**|**WorldPager: Zero-Stall Tiered Memory for Long-Horizon World Models on a Single Consumer GPU**|Ruini Xue Team|[2610.35529](http://arxiv.org/abs/2610.35529)|null|
 |**2026-10-26**|**DriveUniTok: A Unified Multimodal Tokenizer for Driving World-Action Models**|Yong Li Team|[2610.35044](http://arxiv.org/abs/2610.35044)|null|
 |**2026-10-26**|**PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds**|Xiangyu Yue Team|[2610.34921](http://arxiv.org/abs/2610.34921)|null|
 |**2026-10-26**|**TimeWorld: Towards Action-Conditioned Multimodal World Models for Time Series Forecasting**|Hao Liu Team|[2610.34797](http://arxiv.org/abs/2610.34797)|null|
@@ -13013,6 +13030,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**TP-JSCC: Efficient Token Pruning and Joint Source-Channel Coding for LVLMs-based 3D-VQA in Cloud-Edge Collaboration**|Sam Kwong Team|[2610.35489](http://arxiv.org/abs/2610.35489)|null|
+|**2026-10-26**|**EmbodiedLab: Benchmarking Embodied Agents That Act to Know**|Xiao He Team|[2610.35385](http://arxiv.org/abs/2610.35385)|**[link](https://hexafuture.ai/benchmarks/embodiedlab/)**|
 |**2026-10-26**|**MemVLN: Streaming Episodic Memory for Vision-Language Navigation**|Siyuan Huang Team|[2610.35066](http://arxiv.org/abs/2610.35066)|**[link](https://memvln.github.io/)**|
 |**2026-10-26**|**VISTA: Active Exploration for Self-Improvement in Embodied Agents**|Yueqi Duan Team|[2610.35051](http://arxiv.org/abs/2610.35051)|**[link](https://github.com/AgenticEI/VISTA)**|
 |**2026-10-25**|**ScheNav: Schematic-Guided Object Goal Navigation**|Yunde Jia Team|[2610.34286](http://arxiv.org/abs/2610.34286)|null|
