@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -13008,9 +13008,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**OmniBrain-0: A Unified Agentic Model for Embodied Intelligence**|Hangjun Ye Team|[2610.36013](http://arxiv.org/abs/2610.36013)|**[link](https://public-bots.github.io/OmniBrain-0/)**|
 |**2026-10-26**|**TP-JSCC: Efficient Token Pruning and Joint Source-Channel Coding for LVLMs-based 3D-VQA in Cloud-Edge Collaboration**|Sam Kwong Team|[2610.35489](http://arxiv.org/abs/2610.35489)|null|
 |**2026-10-26**|**EmbodiedLab: Benchmarking Embodied Agents That Act to Know**|Xiao He Team|[2610.35385](http://arxiv.org/abs/2610.35385)|**[link](https://hexafuture.ai/benchmarks/embodiedlab/)**|
-|**2026-10-26**|**MemVLN: Streaming Episodic Memory for Vision-Language Navigation**|Siyuan Huang Team|[2610.35066](http://arxiv.org/abs/2610.35066)|**[link](https://memvln.github.io/)**|
+|**2026-10-27**|**MemVLN: Streaming Episodic Memory for Vision-Language Navigation**|Baoxiong Jia Team|[2610.35066](http://arxiv.org/abs/2610.35066)|**[link](https://memvln.github.io/)**|
 |**2026-10-26**|**VISTA: Active Exploration for Self-Improvement in Embodied Agents**|Yueqi Duan Team|[2610.35051](http://arxiv.org/abs/2610.35051)|**[link](https://github.com/AgenticEI/VISTA)**|
 |**2026-10-25**|**ScheNav: Schematic-Guided Object Goal Navigation**|Yunde Jia Team|[2610.34286](http://arxiv.org/abs/2610.34286)|null|
 |**2026-10-25**|**LegoOcc++: Towards Consistent Open-Vocabulary 3D Occupancy Prediction**|Changhao Chen Team|[2610.34093](http://arxiv.org/abs/2610.34093)|null|
@@ -13018,7 +13019,7 @@ layout: default
 |**2026-10-24**|**ReSight: Task-Driven Self-Improving Memory for Embodied Agents**|Xueqian Wang Team|[2610.33487](http://arxiv.org/abs/2610.33487)|null|
 |**2026-10-23**|**Whale You Go Green? Immediate and Longitudinal Effects of Embodied Conversational AI Avatars on Sustainable Behavioral Tendencies and Pro-Environmental Attitudes**|Pat Pataranutaporn Team|[2610.33191](http://arxiv.org/abs/2610.33191)|null|
 |**2026-10-23**|**SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**|Shenji Wan Team|[2610.32978](http://arxiv.org/abs/2610.32978)|null|
-|**2026-10-23**|**HGWM: Hierarchical Graph-Guided World Model for Zero-Shot Object Navigation via Graph Matching**|Hao Tang Team|[2610.32554](http://arxiv.org/abs/2610.32554)|null|
+|**2026-10-27**|**HGWM: Hierarchical Graph-Guided World Model for Zero-Shot Object Navigation via Graph Matching**|Hao Tang Team|[2610.32554](http://arxiv.org/abs/2610.32554)|null|
 |**2026-10-22**|**A Sparse Topometric Graph for Scalable Cross-Session Indoor Navigation**|Young Min Kim Team|[2610.31432](http://arxiv.org/abs/2610.31432)|null|
 |**2026-10-22**|**HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games**|Bo Dai Team|[2610.31162](http://arxiv.org/abs/2610.31162)|null|
 |**2026-10-22**|**Know When to Escalate: Critic-Guided Adaptive Execution for Cloud-Local Embodied Agents**|Charles Fleming Team|[2610.30587](http://arxiv.org/abs/2610.30587)|null|
