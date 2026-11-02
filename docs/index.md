@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -10099,6 +10099,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**VLA Policies Do Not Know When Not to Act: Unintended Task Execution and Start Suppression**|Dohyung Kim Team|[2610.41609](http://arxiv.org/abs/2610.41609)|**[link](https://github.com/zebehn/vla-start-suppression)**|
+|**2026-10-30**|**SACQ: Structure-Aware Codebook Quantization for Ultra-Low-Bit Vision-Language-Action Models**|Insu Han Team|[2610.41408](http://arxiv.org/abs/2610.41408)|null|
+|**2026-10-30**|**TRACE: Target-State Risk-Aligned Conditional Execution for Embodied Tracking**|Bo Wang Team|[2610.41275](http://arxiv.org/abs/2610.41275)|null|
+|**2026-10-29**|**STAR: Steering Action Representations during Inference**|Yiwu Zhong Team|[2610.41009](http://arxiv.org/abs/2610.41009)|null|
+|**2026-10-29**|**From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation**|Jim Gibbons Team|[2610.40828](http://arxiv.org/abs/2610.40828)|null|
+|**2026-10-29**|**CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents**|Xiangyu Yue Team|[2610.40799](http://arxiv.org/abs/2610.40799)|null|
 |**2026-10-29**|**Gym-Anything for Robotics: Scaling physical simulations with digital agents**|Sean Welleck Team|[2610.40565](http://arxiv.org/abs/2610.40565)|null|
 |**2026-10-29**|**BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing**|Kaizhe Hu Team|[2610.40532](http://arxiv.org/abs/2610.40532)|null|
 |**2026-10-29**|**Improving Fine-Grained Manipulation through Demonstration Expansion and Execution Design**|Dongze Lian Team|[2610.40430](http://arxiv.org/abs/2610.40430)|null|
@@ -10110,7 +10116,7 @@ layout: default
 |**2026-10-29**|**From Reasoning to Action: Consequence-Grounded Alignment for Vision-Language-Action Models**|Chang Liu Team|[2610.39543](http://arxiv.org/abs/2610.39543)|**[link](https://onlyxingxingzyx.github.io/CoRAct/)**|
 |**2026-10-29**|**PRIME W0: Physical Priors from World Models for Embodied Manipulation**|Liqing Chen Team|[2610.39528](http://arxiv.org/abs/2610.39528)|null|
 |**2026-10-29**|**Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning**|Tatsuya Harada Team|[2610.39451](http://arxiv.org/abs/2610.39451)|null|
-|**2026-10-29**|**OpenFlyV2: An onboard vision-language-action model for aerial perception and navigation**|Bin Zhao Team|[2610.39287](http://arxiv.org/abs/2610.39287)|null|
+|**2026-10-30**|**OpenFlyV2: An onboard vision-language-action model for aerial perception and navigation**|Bin Zhao Team|[2610.39287](http://arxiv.org/abs/2610.39287)|null|
 |**2026-10-28**|**Quantize by Doing: Task-Guided Mixed-Precision Quantization of Vision-Language-Action Models**|Yangming Shi Team|[2610.38661](http://arxiv.org/abs/2610.38661)|null|
 |**2026-10-28**|**SaiVLA-JEPA: Evaluating Future Latent Prediction in JEPA-Conditioned VLA Control**|Xinhai Sun Team|[2610.38508](http://arxiv.org/abs/2610.38508)|null|
 |**2026-10-28**|**Embodied at Sea: Imitation Learning for Multi-Task Underwater Manipulation**|Christopher Clark Team|[2610.38199](http://arxiv.org/abs/2610.38199)|**[link](https://lair-research-nyu.github.io/Embodied-at-Sea/)**|
