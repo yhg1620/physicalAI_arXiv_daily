@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.02
+## Updated on 2026.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -12400,6 +12400,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**W2A: Distilling World Priors into Action Models for Real-Time Robotic Control**|Yanjie Li Team|[2611.02600](http://arxiv.org/abs/2611.02600)|null|
+|**2026-11-02**|**INTERACT: Learning Interaction-Aware World Dynamics from Driving Videos for Autonomous Driving**|Chen Lv Team|[2611.02526](http://arxiv.org/abs/2611.02526)|null|
+|**2026-11-02**|**Gnomon4D: Learning Where and When to Focus for Geometric Motion-Grounded World-Action Modeling**|Qingyao Wu Team|[2611.02474](http://arxiv.org/abs/2611.02474)|null|
+|**2026-11-02**|**MirrorComm: A Communication-Efficient Cooperative Perception Framework via Mirrored World Models**|Wenjun Zhang Team|[2611.02405](http://arxiv.org/abs/2611.02405)|null|
+|**2026-11-02**|**AgiWorld: An Agentic Video World Model for Building Persistent Worlds**|Yiwei Hu Team|[2611.02341](http://arxiv.org/abs/2611.02341)|null|
+|**2026-11-01**|**Beyond Ensemble Disagreement: Predictive STL Monitoring of RL Locomotion under Distribution Shift**|Sajjad Ali Rajper Team|[2611.02218](http://arxiv.org/abs/2611.02218)|null|
+|**2026-11-01**|**RubricWorld: World Model-Guided Rubric Optimization for LLM Graders**|Jiliang Tang Team|[2611.01986](http://arxiv.org/abs/2611.01986)|null|
+|**2026-11-01**|**The (Butter)fly Dream: Linear Separability of World-Model Rollouts in a Connectome-Constrained Visual Model**|Junichiro Niimi Team|[2611.01866](http://arxiv.org/abs/2611.01866)|null|
+|**2026-11-01**|**OpenNWM: A Generalist Navigation World Model with Latent Action Pretraining**|Long Chen Team|[2611.01844](http://arxiv.org/abs/2611.01844)|**[link](https://openspace-lab.github.io/OpenNWM/)**|
+|**2026-11-01**|**When Does Latent Prediction Error Support Physical Surprise Claims in Video World Models?**|Vasil Vasilev Team|[2611.01815](http://arxiv.org/abs/2611.01815)|null|
+|**2026-11-01**|**ODE Policy: Robot Learning via Action Dynamics, Not Actions**|Jianfei Yang Team|[2611.01729](http://arxiv.org/abs/2611.01729)|null|
+|**2026-11-01**|**Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence**|Bing Wang Team|[2611.01677](http://arxiv.org/abs/2611.01677)|**[link](https://xiaomiautoworldmodel.github.io/CausalWorldModel/)**|
+|**2026-11-01**|**Stand-In Effects and Pooling Amplification: Design-Based Tests of Whether Biological World Models Use Actions**|Boyu Chen Team|[2611.01666](http://arxiv.org/abs/2611.01666)|**[link](https://doi.org/10.17605/OSF.IO/ZXAR3)**|
+|**2026-11-01**|**SCOUT: Planning under Occlusion via Object-Centric World Model Rollouts**|Xuesu Xiao Team|[2611.01600](http://arxiv.org/abs/2611.01600)|null|
+|**2026-11-01**|**Adaptive Surface Cleaning under Uncertain Cleaning Response**|Rachel Holladay Team|[2611.01437](http://arxiv.org/abs/2611.01437)|null|
+|**2026-10-31**|**World Models Need Not Be Right to Rank Policies Right: Relative Bounds and Audit Limits**|Hasaan Ahmad Team|[2611.01139](http://arxiv.org/abs/2611.01139)|null|
+|**2026-10-31**|**pico-WAM: Evaluating Counterfactual Prediction and Planning Error in a Compact World Action Model**|Keivalya Pandya Team|[2611.01039](http://arxiv.org/abs/2611.01039)|**[link](https://github.com/keivalya/pico-wam)**|
+|**2026-10-31**|**GURU: A Hierarchical Neuro-Symbolic Multi-Agent System for Verification-Aware Automation of Mission-Critical Digital Engineering and Operations**|Dwyer Deighan Team|[2611.01001](http://arxiv.org/abs/2611.01001)|null|
+|**2026-10-31**|**Why Koopman Structure Does Not Help Differentiable World Models for Humanoid Whole-Body Tracking**|Ruqi Huang Team|[2611.00951](http://arxiv.org/abs/2611.00951)|null|
+|**2026-10-31**|**Old Is Not False: Valid-Time Memory for Interactive Video World Models**|Xiuyu Li Team|[2611.00758](http://arxiv.org/abs/2611.00758)|null|
 |**2026-10-30**|**Hierarchical World Models with Implicit Dynamics**|Yann LeCun Team|[2610.42146](http://arxiv.org/abs/2610.42146)|null|
 |**2026-10-30**|**CausalWAM: Learning the Causes of Actions in World Action Models**|Yujia Zheng Team|[2610.42096](http://arxiv.org/abs/2610.42096)|null|
 |**2026-10-30**|**When Does Test-Time Search Help World Action Models? An Empirical Audit of Candidate Selection and Simulator Integrity**|Dong Huang Team|[2610.41970](http://arxiv.org/abs/2610.41970)|null|
