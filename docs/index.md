@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**GUILD: Guided Iterative Data Collection for Imitation Learning**|Roberto Martín-Martín Team|[2611.05368](http://arxiv.org/abs/2611.05368)|null|
+|**2026-11-03**|**GSBR: Geometric Support Behavior Regularization for Online RL**|Sergey Levine Team|[2611.05295](http://arxiv.org/abs/2611.05295)|null|
+|**2026-11-03**|**Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems**|Yang You Team|[2611.05275](http://arxiv.org/abs/2611.05275)|null|
+|**2026-11-03**|**Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs**|Marco Pavone Team|[2611.05249](http://arxiv.org/abs/2611.05249)|null|
+|**2026-11-03**|**Asynchronous Robot Policies**|Danda Pani Paudel Team|[2611.05155](http://arxiv.org/abs/2611.05155)|**[link](https://arp.insait.ai)**|
+|**2026-11-03**|**HLO-AMP: Hierarchical Loco-Manipulation from Object-Aware Motion Priors**|Farbod Farshidian Team|[2611.05113](http://arxiv.org/abs/2611.05113)|**[link](https://youtu.be/viR_ULnRDQQ)**|
+|**2026-11-03**|**CRONOS: Benchmarking Non-Episodic Reinforcement Learning for Robotic Manipulation**|Tsung-Wei Ke Team|[2611.05080](http://arxiv.org/abs/2611.05080)|null|
+|**2026-11-03**|**HiLo-WAM: Decoupling Long-Horizon Task Evolution and Local Dynamics in World Action Models**|Mengdi Xu Team|[2611.05023](http://arxiv.org/abs/2611.05023)|null|
 |**2026-11-03**|**Action Intent as a Bridge: Transferring Manipulation Knowledge from Human-Centric Videos to Robots**|Xiaochun Cao Team|[2611.04522](http://arxiv.org/abs/2611.04522)|null|
 |**2026-11-03**|**Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation**|Dong Xu Team|[2611.04493](http://arxiv.org/abs/2611.04493)|null|
 |**2026-11-03**|**All-For-One: Distilling Visual Foundation Models to a Fast, Memory-Efficient Visuomotor Policy**|Jaegul Choo Team|[2611.04485](http://arxiv.org/abs/2611.04485)|null|
@@ -3920,6 +3928,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**GUILD: Guided Iterative Data Collection for Imitation Learning**|Roberto Martín-Martín Team|[2611.05368](http://arxiv.org/abs/2611.05368)|null|
+|**2026-11-03**|**Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs**|Marco Pavone Team|[2611.05249](http://arxiv.org/abs/2611.05249)|null|
+|**2026-11-03**|**Asynchronous Robot Policies**|Danda Pani Paudel Team|[2611.05155](http://arxiv.org/abs/2611.05155)|**[link](https://arp.insait.ai)**|
+|**2026-11-03**|**WayTrace: A Map-to-Language-to-Trace Hierarchy for Embodied Urban Navigation**|Cesar Cadena Team|[2611.05129](http://arxiv.org/abs/2611.05129)|null|
+|**2026-11-03**|**VIGOR: Visual Gain Ordering for Hallucination Mitigation in Multimodal Discrete Diffusion Language Models**|Lijie Wen Team|[2611.05066](http://arxiv.org/abs/2611.05066)|null|
+|**2026-11-03**|**Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture**|Guoquan Huang Team|[2611.04972](http://arxiv.org/abs/2611.04972)|null|
+|**2026-11-03**|**Learning Where to Look: Observation Policy Optimization for Thinking with Images**|Qixing Zhang Team|[2611.04943](http://arxiv.org/abs/2611.04943)|**[link](https://github.com/Yann0122/Observation-Policy-Optimization)**|
+|**2026-11-03**|**Heads That Write, Not Just Point: Image Retrieval Heads in Vision-Language Models**|Sungroh Yoon Team|[2611.04903](http://arxiv.org/abs/2611.04903)|null|
+|**2026-11-03**|**OCR in the Foundation Model Era: From Specialist Models to Unified Models**|Weiming Hu Team|[2611.04874](http://arxiv.org/abs/2611.04874)|**[link](https://github.com/zhihengli-casia/Awesome-OCR-in-the-Foundation-Model-Era)**|
+|**2026-11-03**|**The Pen is Mightier than the Pixel: Natural Textual Unlearnable Example for Large Vision Language Models**|Alex Chichung Kot Team|[2611.04817](http://arxiv.org/abs/2611.04817)|null|
 |**2026-11-03**|**CLARA: A Cognitively-Driven Clarification Framework for Grounding Ambiguous Requests**|Petros Maragos Team|[2611.04708](http://arxiv.org/abs/2611.04708)|null|
 |**2026-11-03**|**BtsPruner: Role-Aware Visual Token Pruning for Large Vision-Language Models**|Zengqiang Yan Team|[2611.04537](http://arxiv.org/abs/2611.04537)|null|
 |**2026-11-03**|**Bridging CLIP with DINO: Cross-Modal Information Maximization for Online Test-Time Adaptation**|Hyunsouk Cho Team|[2611.04489](http://arxiv.org/abs/2611.04489)|null|
@@ -10185,6 +10203,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning**|Shenji Wan Team|[2611.05372](http://arxiv.org/abs/2611.05372)|null|
+|**2026-11-03**|**Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs**|Marco Pavone Team|[2611.05249](http://arxiv.org/abs/2611.05249)|null|
+|**2026-11-03**|**Asynchronous Robot Policies**|Danda Pani Paudel Team|[2611.05155](http://arxiv.org/abs/2611.05155)|**[link](https://arp.insait.ai)**|
+|**2026-11-03**|**LoopQ: Fair, Closed-Loop Evaluation of Quantized Vision-Language-Action Models**|Ahmed Ali-Eldin Team|[2611.05093](http://arxiv.org/abs/2611.05093)|null|
+|**2026-11-03**|**CRONOS: Benchmarking Non-Episodic Reinforcement Learning for Robotic Manipulation**|Tsung-Wei Ke Team|[2611.05080](http://arxiv.org/abs/2611.05080)|null|
+|**2026-11-03**|**Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture**|Guoquan Huang Team|[2611.04972](http://arxiv.org/abs/2611.04972)|null|
+|**2026-11-03**|**Trusting Imagined Futures: Auditing Imagined Rewards for VLA Post-Training**|Zhaofeng He Team|[2611.04873](http://arxiv.org/abs/2611.04873)|null|
 |**2026-11-03**|**Action Intent as a Bridge: Transferring Manipulation Knowledge from Human-Centric Videos to Robots**|Xiaochun Cao Team|[2611.04522](http://arxiv.org/abs/2611.04522)|null|
 |**2026-11-03**|**Aero-VPA: Few-Step Flow-Matching Control over Non-Reconstructive JEPA Latents for Agile Flight on Edge Hardware**|Yeonseok Lee Team|[2611.04392](http://arxiv.org/abs/2611.04392)|**[link](https://github.com/ylee-sling/Aero-VPA)**|
 |**2026-11-03**|**Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs**|Jinwoo Shin Team|[2611.04391](http://arxiv.org/abs/2611.04391)|**[link](https://junhyeong-park.me/h2rb/)**|
@@ -12490,6 +12515,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction**|Wenchao Xu Team|[2611.05280](http://arxiv.org/abs/2611.05280)|**[link](https://rowletqwq.github.io/YANAMI)**|
+|**2026-11-03**|**Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving**|Qingjie Liu Team|[2611.05072](http://arxiv.org/abs/2611.05072)|null|
+|**2026-11-03**|**FloMo: 3D Scene Flow as a World Action Model Intermediate for Learning from Human Video**|Animesh Garg Team|[2611.05062](http://arxiv.org/abs/2611.05062)|null|
+|**2026-11-03**|**HiLo-WAM: Decoupling Long-Horizon Task Evolution and Local Dynamics in World Action Models**|Mengdi Xu Team|[2611.05023](http://arxiv.org/abs/2611.05023)|null|
+|**2026-11-03**|**Trusting Imagined Futures: Auditing Imagined Rewards for VLA Post-Training**|Zhaofeng He Team|[2611.04873](http://arxiv.org/abs/2611.04873)|null|
+|**2026-11-03**|**PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations**|Hao Dong Team|[2611.04870](http://arxiv.org/abs/2611.04870)|null|
+|**2026-11-03**|**Coordinating Humanoid Loco-Manipulation through Action-Conditioned Latent Foresight**|Jianwei Zhang Team|[2611.04839](http://arxiv.org/abs/2611.04839)|null|
 |**2026-11-03**|**Cycle WAM: Coupling Action and Video through Cycle Consistency**|Xuelong Li Team|[2611.04711](http://arxiv.org/abs/2611.04711)|null|
 |**2026-11-03**|**A research world model of power engineering learns its dynamics and reveals what-ifs**|Liwei Lin Team|[2611.04566](http://arxiv.org/abs/2611.04566)|null|
 |**2026-11-03**|**Future Representation Distillation for Imagination-Free World Action Models**|Sung Ju Hwang Team|[2611.04527](http://arxiv.org/abs/2611.04527)|null|
@@ -13312,6 +13344,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**GSBR: Geometric Support Behavior Regularization for Online RL**|Sergey Levine Team|[2611.05295](http://arxiv.org/abs/2611.05295)|null|
 |**2026-10-30**|**When the Simulator Fails, Not the Policy: Auditing Contact Artifacts in Simulated Robot Benchmarks**|Yongchao Chen Team|[2610.41857](http://arxiv.org/abs/2610.41857)|**[link](https://github.com/ALEXander22568/simuguard)**|
 |**2026-11-03**|**PRIME W0: Physical Priors from World Models for Embodied Manipulation**|Liqing Chen Team|[2610.39528](http://arxiv.org/abs/2610.39528)|null|
 |**2026-10-24**|**Replicate What Varies: Resource Sharing for Domain-Randomized Embodied Simulation**|Ting Cao Team|[2610.33582](http://arxiv.org/abs/2610.33582)|null|
@@ -13365,6 +13398,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**HTCE: Homeomorphism-inspired Topological Cross-Scene Experience Canonicalization and Reuse for Object Navigation**|Changsheng Xu Team|[2611.04836](http://arxiv.org/abs/2611.04836)|null|
 |**2026-11-02**|**Physical Experience Builds Continual Spatial World Models**|Yuhang Sun Team|[2611.04016](http://arxiv.org/abs/2611.04016)|null|
 |**2026-11-02**|**VagueBench: Benchmarking the Robustness of Embodied Agents on Ambient Context Illusions**|Xianglong Liu Team|[2611.03765](http://arxiv.org/abs/2611.03765)|null|
 |**2026-11-01**|**Do Embodied VLMs Actually Use Their Scene-Graph Memory?**|Amit Sheth Team|[2611.02056](http://arxiv.org/abs/2611.02056)|null|
