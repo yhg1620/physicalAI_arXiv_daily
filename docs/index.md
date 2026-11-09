@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.08
+## Updated on 2026.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -12592,6 +12592,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**On Agentic Manipulation Policies**|Vladlen Koltun Team|[2611.09892](http://arxiv.org/abs/2611.09892)|**[link](https://apple-aiml-research.github.io/ml-amp/)**|
+|**2026-11-06**|**Encoding Memory in World Models with Test-Time Model-Based Reinforcement Learning**|Radu Timofte Team|[2611.09625](http://arxiv.org/abs/2611.09625)|null|
+|**2026-11-06**|**MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning**|Dmitry Berenson Team|[2611.09293](http://arxiv.org/abs/2611.09293)|null|
+|**2026-11-06**|**Toward the Era of Agentic Embodied Intelligence**|Zhipeng Zhang Team|[2611.09124](http://arxiv.org/abs/2611.09124)|null|
+|**2026-11-06**|**FATHOM: World-Model-Guided Diffusion Action-Trajectory Selection for Sparse-Marker AUV Tracking**|Feitian Zhang Team|[2611.08898](http://arxiv.org/abs/2611.08898)|null|
+|**2026-11-05**|**Personalized health coaching via coachable health age and counterfactual wearable trajectories**|Ahmed A. Metwally Team|[2611.08568](http://arxiv.org/abs/2611.08568)|null|
 |**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Zhiding Yu Team|[2611.08449](http://arxiv.org/abs/2611.08449)|null|
 |**2026-11-05**|**Learning a patient world model for health system simulation in intensive care**|Shaohua Kevin Zhou Team|[2611.08392](http://arxiv.org/abs/2611.08392)|null|
 |**2026-11-05**|**GPWM: Modeling the World as 3D Particle Motion**|Katerina Fragkiadaki Team|[2611.08338](http://arxiv.org/abs/2611.08338)|**[link](https://robertren1122.github.io/gpwm/)**|
@@ -13506,6 +13512,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use**|Jiajun Wu Team|[2611.09036](http://arxiv.org/abs/2611.09036)|null|
+|**2026-11-05**|**Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation**|Ziqin Wang Team|[2611.08577](http://arxiv.org/abs/2611.08577)|**[link](https://meituan-robotics.github.io/Meituan-Robotics-0/)**|
 |**2026-11-05**|**Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement**|Daquan Zhou Team|[2611.08318](http://arxiv.org/abs/2611.08318)|**[link](https://dagroup-pku.github.io/PyRUA-Lean/RSIJudge)**|
 |**2026-11-05**|**Generate-then-Rank: Learning Symbolic Goal Interpretation for Embodied Agents**|Huizhi Liang Team|[2611.07825](http://arxiv.org/abs/2611.07825)|null|
 |**2026-11-04**|**Interactive World Simulation with Cosmos for Physical AI**|Rick Zhuang Team|[2611.06627](http://arxiv.org/abs/2611.06627)|**[link](https://research.nvidia.com/labs/cosmos-lab/cosmos-simulation)**|

@@ -1,4 +1,4 @@
-## Updated on 2026.11.08
+## Updated on 2026.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -3959,7 +3959,7 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## VLM
 
@@ -10274,7 +10274,7 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## VLA
 
@@ -12534,7 +12534,7 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## Safety
 
@@ -12604,12 +12604,18 @@
 |**2026-06-02**|**VLESA: Vision-Language Embodied Safety Agent for Human Activity Monitoring**|Changliu Liu Team|[2606.03954](http://arxiv.org/abs/2606.03954)|null|
 |**2026-05-28**|**From General Vision to Reliable Traversability Estimation: Adapting Vision Foundation Models for Unstructured Outdoor Environments**|Seung-Woo Seo Team|[2605.29565](http://arxiv.org/abs/2605.29565)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## WAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**On Agentic Manipulation Policies**|Vladlen Koltun Team|[2611.09892](http://arxiv.org/abs/2611.09892)|**[link](https://apple-aiml-research.github.io/ml-amp/)**|
+|**2026-11-06**|**Encoding Memory in World Models with Test-Time Model-Based Reinforcement Learning**|Radu Timofte Team|[2611.09625](http://arxiv.org/abs/2611.09625)|null|
+|**2026-11-06**|**MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning**|Dmitry Berenson Team|[2611.09293](http://arxiv.org/abs/2611.09293)|null|
+|**2026-11-06**|**Toward the Era of Agentic Embodied Intelligence**|Zhipeng Zhang Team|[2611.09124](http://arxiv.org/abs/2611.09124)|null|
+|**2026-11-06**|**FATHOM: World-Model-Guided Diffusion Action-Trajectory Selection for Sparse-Marker AUV Tracking**|Feitian Zhang Team|[2611.08898](http://arxiv.org/abs/2611.08898)|null|
+|**2026-11-05**|**Personalized health coaching via coachable health age and counterfactual wearable trajectories**|Ahmed A. Metwally Team|[2611.08568](http://arxiv.org/abs/2611.08568)|null|
 |**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Zhiding Yu Team|[2611.08449](http://arxiv.org/abs/2611.08449)|null|
 |**2026-11-05**|**Learning a patient world model for health system simulation in intensive care**|Shaohua Kevin Zhou Team|[2611.08392](http://arxiv.org/abs/2611.08392)|null|
 |**2026-11-05**|**GPWM: Modeling the World as 3D Particle Motion**|Katerina Fragkiadaki Team|[2611.08338](http://arxiv.org/abs/2611.08338)|**[link](https://robertren1122.github.io/gpwm/)**|
@@ -13465,7 +13471,7 @@
 |**2026-08-23**|**BehaviorWorldGen: Closing the Loop between Action Models and World Simulators via Controllable Behavior-Aware Structured World Generation**|Jiajun Zhu Team|[2608.22187](http://arxiv.org/abs/2608.22187)|null|
 |**2026-08-22**|**Inferring Action from Future Latent State for Robotic Manipulation**|Xiaoxue Ren Team|[2608.22067](http://arxiv.org/abs/2608.22067)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## Evaluation
 
@@ -13522,12 +13528,14 @@
 |**2026-06-10**|**Intelligent Automation for Embodied Benchmark Construction: Pipelines, Embodiments, Simulators, and Trends**|Qiang Ma Team|[2606.12207](http://arxiv.org/abs/2606.12207)|null|
 |**2026-06-10**|**World Model Self-Distillation: Training World Models to Solve General Tasks**|Paolo Favaro Team|[2606.12072](http://arxiv.org/abs/2606.12072)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## Robot Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use**|Jiajun Wu Team|[2611.09036](http://arxiv.org/abs/2611.09036)|null|
+|**2026-11-05**|**Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation**|Ziqin Wang Team|[2611.08577](http://arxiv.org/abs/2611.08577)|**[link](https://meituan-robotics.github.io/Meituan-Robotics-0/)**|
 |**2026-11-05**|**Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement**|Daquan Zhou Team|[2611.08318](http://arxiv.org/abs/2611.08318)|**[link](https://dagroup-pku.github.io/PyRUA-Lean/RSIJudge)**|
 |**2026-11-05**|**Generate-then-Rank: Learning Symbolic Goal Interpretation for Embodied Agents**|Huizhi Liang Team|[2611.07825](http://arxiv.org/abs/2611.07825)|null|
 |**2026-11-04**|**Interactive World Simulation with Cosmos for Physical AI**|Rick Zhuang Team|[2611.06627](http://arxiv.org/abs/2611.06627)|**[link](https://research.nvidia.com/labs/cosmos-lab/cosmos-simulation)**|
@@ -13729,7 +13737,7 @@
 |**2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Lei Zhu Team|[2608.13453](http://arxiv.org/abs/2608.13453)|null|
 |**2026-08-13**|**Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes**|Louis Nisiotis Team|[2608.13420](http://arxiv.org/abs/2608.13420)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## Robot Task Failure
 
@@ -13747,5 +13755,5 @@
 |**2023-07-10**|**Utilising Explanations to Mitigate Robot Conversational Failures**|Dimosthenis Kontogiorgos Team|[2307.04462](http://arxiv.org/abs/2307.04462)|null|
 |**2017-06-17**|**dSDiVN: a distributed Software-Defined Networking architecture for Infrastructure-less Vehicular Networks**|Samira Moussaoui Team|[1706.05536](http://arxiv.org/abs/1706.05536)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
