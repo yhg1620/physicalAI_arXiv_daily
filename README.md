@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Anjana Yodaiken Team|[2611.14432](http://arxiv.org/abs/2611.14432)|**[link](https://github.com/Robot-Learning-Collective/behavior-1k-solution-2026)**|
+|**2026-11-10**|**OnlyAct: Extracting Action Representations from Foundation Models for World Models**|Tomas Jakab Team|[2611.14420](http://arxiv.org/abs/2611.14420)|null|
+|**2026-11-10**|**Model-Free Runtime Measurement of Task-Relevant Information**|Weisi Guo Team|[2611.14111](http://arxiv.org/abs/2611.14111)|null|
 |**2026-11-10**|**LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning**|Shanghang Zhang Team|[2611.14048](http://arxiv.org/abs/2611.14048)|null|
 |**2026-11-10**|**Camera equalisation of an 11.5x drop in environmental illuminance: four imitation-learning policies on an SO-101 arm**|Simon Cowling Team|[2611.13810](http://arxiv.org/abs/2611.13810)|**[link](https://huggingface.co/datasets/fysical/so101-lighting-autoexposure)**|
 |**2026-11-10**|**Ego Guidance: Enhancing Robot Policy Learning with Action-Free Human Egocentric Videos**|Shanghang Zhang Team|[2611.13685](http://arxiv.org/abs/2611.13685)|**[link](https://llong-cs.github.io/EgoGuidance)**|
@@ -4011,6 +4014,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**C $^2$ -Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference**|Qinyu Chen Team|[2611.14469](http://arxiv.org/abs/2611.14469)|null|
+|**2026-11-10**|**Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection**|Borut Batagelj Team|[2611.14436](http://arxiv.org/abs/2611.14436)|null|
+|**2026-11-10**|**Sckwoky at SHROOM-Visions: Character-Level Hallucination-Span Detection in Image-Conditioned VLMs via Dual-Prompted LoRA Decoders**|Ivan Bondarenko Team|[2611.14100](http://arxiv.org/abs/2611.14100)|null|
+|**2026-11-10**|**ZoomGain: Mining Global-to-Zoom Perception Gaps for Fine-Grained Visual Supervision**|Jianwei Yin Team|[2611.14076](http://arxiv.org/abs/2611.14076)|**[link](https://github.com/inclusionAI/ZoomGain)**|
 |**2026-11-10**|**Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3**|Zijian Chen Team|[2611.14060](http://arxiv.org/abs/2611.14060)|**[link](https://github.com/chen4study-hub/where-vlms-get-left-right)**|
 |**2026-11-10**|**From Show Programs to Linked Data**|Jeanne Fras Team|[2611.14037](http://arxiv.org/abs/2611.14037)|null|
 |**2026-11-10**|**Specify Privacy Yourself: Assessing Inference-Time Personalized Privacy Preservation Ability of Large Vision-Language Models**|Jia Jia Team|[2611.13997](http://arxiv.org/abs/2611.13997)|null|
@@ -10384,6 +10391,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies**|Bo An Team|[2611.14488](http://arxiv.org/abs/2611.14488)|null|
+|**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Anjana Yodaiken Team|[2611.14432](http://arxiv.org/abs/2611.14432)|**[link](https://github.com/Robot-Learning-Collective/behavior-1k-solution-2026)**|
+|**2026-11-10**|**DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning**|Taku Komura Team|[2611.14092](http://arxiv.org/abs/2611.14092)|**[link](https://robbyant-research.github.io/DexSeed/)**|
 |**2026-11-09**|**How Much of Your VLA Is kNN**|Omar Moured Team|[2611.13160](http://arxiv.org/abs/2611.13160)|null|
 |**2026-11-09**|**Robo-MLT: Dual-System Robotic Manipulation for Long-Horizon Medical Laboratory Tasks**|YunLong Zhang Team|[2611.13039](http://arxiv.org/abs/2611.13039)|null|
 |**2026-11-09**|**APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models**|Asoke Nandi Team|[2611.13030](http://arxiv.org/abs/2611.13030)|null|
@@ -12750,6 +12760,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**OnlyAct: Extracting Action Representations from Foundation Models for World Models**|Tomas Jakab Team|[2611.14420](http://arxiv.org/abs/2611.14420)|null|
+|**2026-11-10**|**Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning**|Jobst Heitzig Team|[2611.14419](http://arxiv.org/abs/2611.14419)|null|
+|**2026-11-10**|**An Energy-Based Perspective on Machine Learning**|Yilun Du Team|[2611.14383](http://arxiv.org/abs/2611.14383)|null|
+|**2026-11-10**|**From Video Frames to Robot Meta-Frames: A Unified Latent Interface for World Action Models**|Mike Zheng Shou Team|[2611.14365](http://arxiv.org/abs/2611.14365)|null|
+|**2026-11-10**|**Elastic-WAM: Adaptive Spatiotemporal Imagination for Efficient Robot Control**|Lin Shao Team|[2611.14257](http://arxiv.org/abs/2611.14257)|**[link](https://lihaitian.com/Elastic-WAM/)**|
 |**2026-11-10**|**LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning**|Shanghang Zhang Team|[2611.14048](http://arxiv.org/abs/2611.14048)|null|
 |**2026-11-10**|**WAM is capable in BEHAVIOR-1K: the 2nd-place solution to the 2026 BEHAVIOR Challenge**|Rong Xiao Team|[2611.13818](http://arxiv.org/abs/2611.13818)|**[link](https://behavior.stanford.edu/challenge/index.html)**|
 |**2026-11-10**|**Few-Shot Residual Adaptation of Pretrained Latent World Models**|Rudolf Lioutikov Team|[2611.13592](http://arxiv.org/abs/2611.13592)|null|
@@ -13726,7 +13741,7 @@
 |**2026-11-08**|**Review the Episodes, Refine the Lessons: Simple Memory Evolution for Embodied Agents**|Chunhua Shen Team|[2611.11509](http://arxiv.org/abs/2611.11509)|null|
 |**2026-11-07**|**Where Should Models Run? A Collaborative Inference Framework for Embodied Intelligence in 6G**|Gan Zheng Team|[2611.11023](http://arxiv.org/abs/2611.11023)|null|
 |**2026-11-06**|**ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use**|Jiajun Wu Team|[2611.09036](http://arxiv.org/abs/2611.09036)|null|
-|**2026-11-05**|**Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation**|Ziqin Wang Team|[2611.08577](http://arxiv.org/abs/2611.08577)|**[link](https://meituan-robotics.github.io/Meituan-Robotics-0/)**|
+|**2026-11-10**|**Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation**|Ziqin Wang Team|[2611.08577](http://arxiv.org/abs/2611.08577)|**[link](https://meituan-robotics.github.io/Meituan-Robotics-0/)**|
 |**2026-11-05**|**Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement**|Daquan Zhou Team|[2611.08318](http://arxiv.org/abs/2611.08318)|**[link](https://dagroup-pku.github.io/PyRUA-Lean/RSIJudge)**|
 |**2026-11-05**|**Generate-then-Rank: Learning Symbolic Goal Interpretation for Embodied Agents**|Huizhi Liang Team|[2611.07825](http://arxiv.org/abs/2611.07825)|null|
 |**2026-11-04**|**Interactive World Simulation with Cosmos for Physical AI**|Rick Zhuang Team|[2611.06627](http://arxiv.org/abs/2611.06627)|**[link](https://research.nvidia.com/labs/cosmos-lab/cosmos-simulation)**|
