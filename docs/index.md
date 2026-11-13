@@ -2,13 +2,31 @@
 layout: default
 ---
 
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**Robo-SWE: An Executable Issue-Resolution Dataset Mined from Robot Software Repositories**|Alois Knoll Team|[2611.16116](http://arxiv.org/abs/2611.16116)|**[link](https://huggingface.co/datasets/vharatian/Robo-SWE)**|
+|**2026-11-11**|**Imitating the Imperfect: Offline-to-Online Robust Imitation Learning from Heterogeneous Demonstrators**|Josie Hughes Team|[2611.16020](http://arxiv.org/abs/2611.16020)|null|
+|**2026-11-11**|**MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes**|Amir Rasouli Team|[2611.15937](http://arxiv.org/abs/2611.15937)|null|
+|**2026-11-11**|**Before AI Agents Negotiate for Us: A Competitive Tournament of Rule-Based, Search, Optimization, Learned, and Language-Model Negotiators Under Scarcity**|Umberto Leon-Dominguez Team|[2611.15838](http://arxiv.org/abs/2611.15838)|**[link](https://github.com/AILabFr8tech/wehaveadeal)**|
+|**2026-11-11**|**Where to Generate Touch: Do Image Latents Preserve Material Recognition?**|Ang Li Team|[2611.15834](http://arxiv.org/abs/2611.15834)|null|
+|**2026-11-11**|**RUMI: A Robotiq-Matched Universal Manipulation Interface for Robot Learning with Augmented Reality and Haptic Feedback**|Wolfram Burgard Team|[2611.15802](http://arxiv.org/abs/2611.15802)|null|
+|**2026-11-11**|**GraSLA: A Lightweight Spatial-Language-Action Model with Grasp Hypotheses as Geometric Priors**|Shaofei Chen Team|[2611.15659](http://arxiv.org/abs/2611.15659)|null|
+|**2026-11-11**|**Single-View RGB-D Force--Deformation Estimation for Robotic Manipulation of Elasto-Plastic Materials**|Kenan Niu Team|[2611.15650](http://arxiv.org/abs/2611.15650)|null|
+|**2026-11-11**|**Low-Cost Mobile Bimanual Manipulation for Long-Horizon Toilet Cleaning**|Jianwei Zhang Team|[2611.15381](http://arxiv.org/abs/2611.15381)|null|
+|**2026-11-11**|**Bind-WAM: Binding-Uncertainty-Guided Selective Future Imagination in World Action Models**|Yanwei Fu Team|[2611.15368](http://arxiv.org/abs/2611.15368)|null|
+|**2026-11-11**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Chuang Dai Team|[2611.15360](http://arxiv.org/abs/2611.15360)|null|
+|**2026-11-11**|**BiPOP: Partial-Order Planning for Long-Horizon Bimanual Robotic Manipulation**|Stefan Wermter Team|[2611.15317](http://arxiv.org/abs/2611.15317)|null|
+|**2026-11-11**|**Where is My Mug? Training-Free Framework for Personalized Image Segmentation**|Khoi Nguyen Team|[2611.15216](http://arxiv.org/abs/2611.15216)|null|
+|**2026-11-11**|**Prediction or Persistence? What Future-Prediction Scores Miss About World Models**|Animesh Maheshwari Team|[2611.15082](http://arxiv.org/abs/2611.15082)|null|
+|**2026-11-11**|**CrowdMAPS: Crowdsourcing Multiple Actions per State for Real-World Imitation Learning**|Chen Zhu-Tian Team|[2611.15078](http://arxiv.org/abs/2611.15078)|null|
+|**2026-11-11**|**Does Your World Model Know Actions Have Consequences?**|Todd D. Murphey Team|[2611.15048](http://arxiv.org/abs/2611.15048)|null|
+|**2026-11-11**|**Scaling VLA Serving Under Robotic Execution Constraints**|Hao Wang Team|[2611.14969](http://arxiv.org/abs/2611.14969)|null|
+|**2026-11-10**|**Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models**|Trevor Darrell Team|[2611.14834](http://arxiv.org/abs/2611.14834)|null|
 |**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Anjana Yodaiken Team|[2611.14432](http://arxiv.org/abs/2611.14432)|**[link](https://github.com/Robot-Learning-Collective/behavior-1k-solution-2026)**|
 |**2026-11-10**|**OnlyAct: Extracting Action Representations from Foundation Models for World Models**|Tomas Jakab Team|[2611.14420](http://arxiv.org/abs/2611.14420)|null|
 |**2026-11-10**|**Model-Free Runtime Measurement of Task-Relevant Information**|Weisi Guo Team|[2611.14111](http://arxiv.org/abs/2611.14111)|null|
@@ -4002,6 +4020,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**Pothole Risk Assessment with Geometrically Grounded Vision Language Models**|Samir A. Rawashdeh Team|[2611.16061](http://arxiv.org/abs/2611.16061)|**[link](https://github.com/malekaburaddaha/Pothole_Assessment_Pipeline)**|
+|**2026-11-11**|**Predicting the Needle in a Petabyte Scale Haystack: Open-Vocabulary Event Anticipation in Satellite Imagery**|Bharath Hariharan Team|[2611.16000](http://arxiv.org/abs/2611.16000)|null|
+|**2026-11-11**|**Prior-as-Skill: Remember Outside and Read Inside with On-Policy Self-Distillation for Self-Evolving VLM Agents**|Stephen McGough Team|[2611.15766](http://arxiv.org/abs/2611.15766)|null|
+|**2026-11-11**|**How Far Can Frozen Vision-Language Models Go on Event Data? A Training-Free Study on EventBench**|Md Adnan Arefeen Team|[2611.15756](http://arxiv.org/abs/2611.15756)|null|
+|**2026-11-11**|**SpaceMCP: Vision Language Model Spatial Reasoning via Model Context Protocol**|Ronald Clark Team|[2611.15680](http://arxiv.org/abs/2611.15680)|null|
+|**2026-11-11**|**TraceKV: Policy-Preserving Low-Rank KV Cache Compression for Reasoning Vision-Language Models**|Yiran Chen Team|[2611.15569](http://arxiv.org/abs/2611.15569)|null|
+|**2026-11-11**|**Supervision-Aware Evaluation of MedGemma for Reference-Assisted Radiotherapy Contour Ranking**|Wei Liu Team|[2611.15370](http://arxiv.org/abs/2611.15370)|null|
+|**2026-11-11**|**AcrossPlace: Do Vision--Language Models Recognize Places Beyond Their Source Views? A Comprehensive Benchmark**|Qingyu Zhu Team|[2611.15314](http://arxiv.org/abs/2611.15314)|null|
+|**2026-11-11**|**Towards Robust Vision-Language Reasoning: A Multi-Stage Optimization Pipeline with Masked Diffusion Model**|Huaxiao Liu Team|[2611.15238](http://arxiv.org/abs/2611.15238)|null|
+|**2026-11-11**|**A General Concept-based Decomposition for Vision-Language Embeddings**|Pascal Frossard Team|[2611.15195](http://arxiv.org/abs/2611.15195)|**[link](https://sapeirone.github.io/grace/)**|
+|**2026-11-11**|**A frontier machine intelligence for human neuroimaging**|Todd Hollon Team|[2611.15094](http://arxiv.org/abs/2611.15094)|null|
+|**2026-11-11**|**Decide Before You Move: Diffusion-Generated Search Reference for Zero-Shot Open-Vocabulary Object Navigation in Semi-Static Environments**|Hermann Blum Team|[2611.15093](http://arxiv.org/abs/2611.15093)|null|
+|**2026-11-11**|**Saying No by Asking Yes: Affirmative Decomposition and Evidence Reflection for Frozen CLIP**|Shivanand Venkanna Sheshappanavar Team|[2611.15047](http://arxiv.org/abs/2611.15047)|null|
+|**2026-11-11**|**AROMA: Adaptive Representation-Oriented Multimodal Actuation for Vision-Language Model Control**|Zhaoning Zhang Team|[2611.15041](http://arxiv.org/abs/2611.15041)|null|
+|**2026-11-11**|**Back to the Question: Tracing Visual Distraction Through Text Tokens**|Sivan Doveh Team|[2611.15039](http://arxiv.org/abs/2611.15039)|null|
+|**2026-11-11**|**Aggregate Accuracy Hides Diagnosis-Specific Failure in Medical Vision-Language Models**|Angad Ripudaman Singh Bajwa Team|[2611.14975](http://arxiv.org/abs/2611.14975)|null|
+|**2026-11-10**|**Sophon: A Procedural Diagnostic for Spatial Reasoning in Vision-Language Models**|Justin Fletcher Team|[2611.14838](http://arxiv.org/abs/2611.14838)|**[link](https://github.com/zgazak/sophon)**|
+|**2026-11-10**|**From Classification to Generation: Vision-Language Models for Roman Imperial Coin Description**|Ognjen Arandjelović Team|[2611.14821](http://arxiv.org/abs/2611.14821)|null|
+|**2026-11-10**|**Robust Task-Aware State Estimation from Pre-trained Perception**|Sarah Keren Team|[2611.14781](http://arxiv.org/abs/2611.14781)|null|
+|**2026-11-10**|**Benchmarking Multilingual Document Understanding in Vision-Language Models**|Andrea Zugarini Team|[2611.14758](http://arxiv.org/abs/2611.14758)|null|
 |**2026-11-10**|**C $^2$ -Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference**|Qinyu Chen Team|[2611.14469](http://arxiv.org/abs/2611.14469)|null|
 |**2026-11-10**|**Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection**|Borut Batagelj Team|[2611.14436](http://arxiv.org/abs/2611.14436)|null|
 |**2026-11-10**|**Sckwoky at SHROOM-Visions: Character-Level Hallucination-Span Detection in Image-Conditioned VLMs via Dual-Prompted LoRA Decoders**|Ivan Bondarenko Team|[2611.14100](http://arxiv.org/abs/2611.14100)|null|
@@ -12742,6 +12780,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**Latent Imagination for Parameterized Action Spaces**|Ümit Can Bekar Team|[2611.15744](http://arxiv.org/abs/2611.15744)|null|
+|**2026-11-11**|**What World Model Does Active Object Search Need? A Study under Imperfect Detection**|Kyeongryeol Go Team|[2611.15689](http://arxiv.org/abs/2611.15689)|null|
+|**2026-11-11**|**CoCode-World: Shared 3D Proxy Representation for Multi-Player World Models**|Chi Zhang Team|[2611.15602](http://arxiv.org/abs/2611.15602)|null|
+|**2026-11-11**|**An Approach to Hinton's Mother-Child Proposal: Neural Networks Learning and Preserving Care in a Finite World**|Csaba Balogh Team|[2611.15523](http://arxiv.org/abs/2611.15523)|**[link](https://doi.org/10.5281/zenodo.24106446)**|
+|**2026-11-11**|**Bind-WAM: Binding-Uncertainty-Guided Selective Future Imagination in World Action Models**|Yanwei Fu Team|[2611.15368](http://arxiv.org/abs/2611.15368)|null|
+|**2026-11-11**|**Driving World Models Move the Camera, Not the Scene**|Xiaoyu Ao Team|[2611.15260](http://arxiv.org/abs/2611.15260)|**[link](https://joefeng0571.github.io/retime-compose/)**|
+|**2026-11-11**|**AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention**|Heng Tao Shen Team|[2611.15215](http://arxiv.org/abs/2611.15215)|null|
+|**2026-11-11**|**Duo: A Reciprocal World Model for Full-Duplex Interaction**|Zhenzhong Lan Team|[2611.15131](http://arxiv.org/abs/2611.15131)|**[link](https://duo-v1.github.io/)**|
+|**2026-11-11**|**Prediction or Persistence? What Future-Prediction Scores Miss About World Models**|Animesh Maheshwari Team|[2611.15082](http://arxiv.org/abs/2611.15082)|null|
+|**2026-11-11**|**Does Your World Model Know Actions Have Consequences?**|Todd D. Murphey Team|[2611.15048](http://arxiv.org/abs/2611.15048)|null|
+|**2026-11-11**|**Fast Inference-Time Policy Refinement via Action-Affine World Models**|Liang Wu Team|[2611.15011](http://arxiv.org/abs/2611.15011)|null|
+|**2026-11-11**|**From Forecasting to World Modeling: Can Temporal Foundation Models Recover Causal Response?**|Venkatesh Shankar Team|[2611.15009](http://arxiv.org/abs/2611.15009)|null|
+|**2026-11-11**|**The Posterior-Prior Epistemic Gap: When World Model Imagination Fails to Carry Task-Relevant Signals**|Haewoon Nam Team|[2611.14955](http://arxiv.org/abs/2611.14955)|null|
+|**2026-11-11**|**FOE-Dreamer: Deployment-Efficient Learning of Cyber Defense Policies in Operational Networks**|Christopher Kiekintveld Team|[2611.14880](http://arxiv.org/abs/2611.14880)|null|
+|**2026-11-10**|**BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model**|Seung Wook Kim Team|[2611.14815](http://arxiv.org/abs/2611.14815)|**[link](https://research.nvidia.com/labs/sil/projects/birddreams/)**|
 |**2026-11-10**|**OnlyAct: Extracting Action Representations from Foundation Models for World Models**|Tomas Jakab Team|[2611.14420](http://arxiv.org/abs/2611.14420)|null|
 |**2026-11-10**|**Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning**|Jobst Heitzig Team|[2611.14419](http://arxiv.org/abs/2611.14419)|null|
 |**2026-11-10**|**An Energy-Based Perspective on Machine Learning**|Yilun Du Team|[2611.14383](http://arxiv.org/abs/2611.14383)|null|
@@ -13711,6 +13764,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**What World Model Does Active Object Search Need? A Study under Imperfect Detection**|Kyeongryeol Go Team|[2611.15689](http://arxiv.org/abs/2611.15689)|null|
+|**2026-11-11**|**IncR-3DSGG: Incremental Posed RGB Image Based 3D Scene Graph Generation via Privileged Depth Supervision**|Rainer Lienhart Team|[2611.15429](http://arxiv.org/abs/2611.15429)|null|
 |**2026-11-10**|**Softness is something you also need! Why compliance helps control: information metrics of a passive walker with compliant ankle**|Enrica Zereik Team|[2611.13779](http://arxiv.org/abs/2611.13779)|null|
 |**2026-11-07**|**Embodied Science Agents: Making Embodied Experimental Design Learnable**|Jun Wang Team|[2611.12958](http://arxiv.org/abs/2611.12958)|null|
 |**2026-11-09**|**WanderBench: Can World Models Explore Dynamic Worlds from Video?**|Guangyue Liu Team|[2611.12557](http://arxiv.org/abs/2611.12557)|null|
