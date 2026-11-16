@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Imitation Bootstrapped Multi-Agent Reinforcement Learning**|Daniel S. Brown Team|[2611.18543](http://arxiv.org/abs/2611.18543)|**[link](https://zhanghutony.github.io/ibmarl/.)**|
+|**2026-11-13**|**When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners**|Matyas Szanto Team|[2611.18491](http://arxiv.org/abs/2611.18491)|**[link](https://github.com/mkhoshnam/Selfplay-PPO-handover)**|
 |**2026-11-13**|**Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation**|Yifan Zhu Team|[2611.18298](http://arxiv.org/abs/2611.18298)|**[link](https://zihaolu001.github.io/oap-project/)**|
 |**2026-11-13**|**Atlas-DeePC: Learning Behavioral Atlases for Predictive Control**|Jeremy Coulson Team|[2611.18266](http://arxiv.org/abs/2611.18266)|null|
 |**2026-11-13**|**Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models**|Yong-Jin Liu Team|[2611.17775](http://arxiv.org/abs/2611.17775)|null|
@@ -4035,6 +4037,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**MMFlash: Faster Speculative Decoding for Vision-Language Models**|Xinchao Wang Team|[2611.18482](http://arxiv.org/abs/2611.18482)|**[link](https://fscdc.github.io/MMFlash/})**|
 |**2026-11-13**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Soran Parsa Team|[2611.18372](http://arxiv.org/abs/2611.18372)|null|
 |**2026-11-13**|**VLAN: Vision-Language Accessible Navigation**|Jiaming Zhang Team|[2611.18346](http://arxiv.org/abs/2611.18346)|**[link](https://github.com/InSAI-Lab/VLAN)**|
 |**2026-11-13**|**Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation**|Yifan Zhu Team|[2611.18298](http://arxiv.org/abs/2611.18298)|**[link](https://zihaolu001.github.io/oap-project/)**|
@@ -10460,6 +10463,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Training Reasoning Models in Simulation to Natively Use Real Robots**|Song Han Team|[2611.18562](http://arxiv.org/abs/2611.18562)|null|
+|**2026-11-13**|**Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent**|Shaoqing Ren Team|[2611.18397](http://arxiv.org/abs/2611.18397)|null|
+|**2026-11-13**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Soran Parsa Team|[2611.18372](http://arxiv.org/abs/2611.18372)|null|
+|**2026-11-13**|**ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents**|Zilei Wang Team|[2611.18176](http://arxiv.org/abs/2611.18176)|**[link](https://github.com/Embodied-Self-Improvement/ESI)**|
+|**2026-11-12**|**Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training**|Xinlei Chen Team|[2611.17394](http://arxiv.org/abs/2611.17394)|null|
 |**2026-11-12**|**STVLA: Spatial-aware and Temporal-memory forVision-Language-Action Models**|Maoqing Yao Team|[2611.16589](http://arxiv.org/abs/2611.16589)|null|
 |**2026-11-12**|**I See What You Want: Decoding Hierarchical Operator Intent from Visual Teleoperation History**|Marco Hutter Team|[2611.16419](http://arxiv.org/abs/2611.16419)|**[link](https://see-want.github.io/)**|
 |**2026-11-12**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Houde Liu Team|[2611.16246](http://arxiv.org/abs/2611.16246)|null|
@@ -10467,7 +10475,7 @@ layout: default
 |**2026-11-11**|**What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation**|Rudolf Lioutikov Team|[2611.15491](http://arxiv.org/abs/2611.15491)|null|
 |**2026-11-11**|**ActionCodec2: A Streaming Action Tokenizer**|Hang Zhao Team|[2611.15490](http://arxiv.org/abs/2611.15490)|null|
 |**2026-11-11**|**Low-Cost Mobile Bimanual Manipulation for Long-Horizon Toilet Cleaning**|Jianwei Zhang Team|[2611.15381](http://arxiv.org/abs/2611.15381)|null|
-|**2026-11-11**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Chuang Dai Team|[2611.15360](http://arxiv.org/abs/2611.15360)|null|
+|**2026-11-13**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Chuang Dai Team|[2611.15360](http://arxiv.org/abs/2611.15360)|null|
 |**2026-11-11**|**PolyMorphWBC: Whole-Body Control from End-Effector Trajectories for Quadrupedal Mobile Manipulation across Arm Morphologies with Extended Reach**|Yanyong Zhang Team|[2611.15117](http://arxiv.org/abs/2611.15117)|null|
 |**2026-11-11**|**Scaling VLA Serving Under Robotic Execution Constraints**|Hao Wang Team|[2611.14969](http://arxiv.org/abs/2611.14969)|null|
 |**2026-11-10**|**Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models**|Trevor Darrell Team|[2611.14834](http://arxiv.org/abs/2611.14834)|null|
@@ -12768,6 +12776,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**VLAN: Vision-Language Accessible Navigation**|Jiaming Zhang Team|[2611.18346](http://arxiv.org/abs/2611.18346)|**[link](https://github.com/InSAI-Lab/VLAN)**|
 |**2026-11-03**|**Say the Same, Act Differently: Diagnosing and Steering Text-Action Divergence in Reasoning VLAs**|Ramesh Govindan Team|[2611.04166](http://arxiv.org/abs/2611.04166)|null|
 |**2026-11-01**|**When Delay Meets Drift: Physical Safety of Robot Foundation Models Is a Cross-Layer Problem**|Bimal Thapa Magar Team|[2611.02101](http://arxiv.org/abs/2611.02101)|null|
 |**2026-10-23**|**GlanceAR: Repurposing Phone Sensors via Low-Cost Reflectors for Always-On Obstacle Awareness**|Jon E. Froehlich Team|[2610.33142](http://arxiv.org/abs/2610.33142)|null|
@@ -12836,6 +12845,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support**|Tao Liu Team|[2611.18458](http://arxiv.org/abs/2611.18458)|null|
+|**2026-11-13**|**WeatherDreamer: Learning a World Model from Multimodal Earth Observations**|Thomas J. Vandal Team|[2611.18393](http://arxiv.org/abs/2611.18393)|null|
+|**2026-11-13**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Soran Parsa Team|[2611.18372](http://arxiv.org/abs/2611.18372)|null|
+|**2026-11-13**|**Toward Universal Translatability: On the Statistical Ontology of Generative AI**|Katia Schwerzmann Team|[2611.17963](http://arxiv.org/abs/2611.17963)|null|
+|**2026-11-13**|**V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations**|Yong Suk Choi Team|[2611.17831](http://arxiv.org/abs/2611.17831)|null|
+|**2026-11-13**|**Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models**|Yong-Jin Liu Team|[2611.17775](http://arxiv.org/abs/2611.17775)|null|
+|**2026-11-13**|**Joint World Action Models through Differentiable Trajectory Optimization**|Koushil Sreenath Team|[2611.17626](http://arxiv.org/abs/2611.17626)|null|
+|**2026-11-12**|**Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum**|Thrasyvoulos Spyropoulos Team|[2611.17529](http://arxiv.org/abs/2611.17529)|null|
 |**2026-11-12**|**Spatial Foundry: A Multimodal Dataset for Spatial Intelligence**|Yang Song Team|[2611.17318](http://arxiv.org/abs/2611.17318)|**[link](https://ranolabs.com/Blog/spatial-foundry)**|
 |**2026-11-12**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Zhijie Deng Team|[2611.17110](http://arxiv.org/abs/2611.17110)|null|
 |**2026-11-12**|**InertiaMPDD: Multimodal Personalized Depression Detection via Emotional Inertia-Inspired Dynamics Modeling**|Lang He Team|[2611.16647](http://arxiv.org/abs/2611.16647)|null|
