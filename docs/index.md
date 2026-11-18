@@ -13955,6 +13955,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Stochastic Diversity Windows: Diagnosing Noise Influence in Robotic Diffusion Sampling**|Ze Ji Team|[2611.22743](http://arxiv.org/abs/2611.22743)|null|
 |**2026-11-16**|**From Vision to Interaction: Evaluating Dynamic Social Intelligence of VLM Agents in ALIVE-World**|Jia Jia Team|[2611.20956](http://arxiv.org/abs/2611.20956)|null|
 |**2026-11-10**|**Learn-To-Propagate: Distributionally Robust Motion Planning for Nonlinear Uncertain Systems**|Luca Laurenti Team|[2611.13863](http://arxiv.org/abs/2611.13863)|null|
 |**2026-11-10**|**Camera equalisation of an 11.5x drop in environmental illuminance: four imitation-learning policies on an SO-101 arm**|Simon Cowling Team|[2611.13810](http://arxiv.org/abs/2611.13810)|**[link](https://huggingface.co/datasets/fysical/so101-lighting-autoexposure)**|
