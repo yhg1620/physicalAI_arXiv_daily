@@ -10670,6 +10670,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**Efficient VLA Reinforcement Learning via Subchunk Rollouts in Latent World Models**|Yang Yu Team|[2611.27645](http://arxiv.org/abs/2611.27645)|null|
+|**2026-11-20**|**SCAP: Stochastic Context for Action Expert Pretraining**|Qijun Chen Team|[2611.27187](http://arxiv.org/abs/2611.27187)|null|
+|**2026-11-20**|**Tripwire: Robot Agents that Program Their Own Interrupts under Human Disturbance**|Chuang Gan Team|[2611.27182](http://arxiv.org/abs/2611.27182)|null|
+|**2026-11-20**|**Learning from Incomplete Actions: Interval Motion Supervision for Vision-Language-Action Policies**|Gang Wang Team|[2611.27171](http://arxiv.org/abs/2611.27171)|null|
+|**2026-11-20**|**BeyondEgo: Learning to Act Beyond Egocentric Perception via Humanoid Ego-Exo Foresight**|Jin Pan Team|[2611.27047](http://arxiv.org/abs/2611.27047)|null|
+|**2026-11-20**|**FoRe: A Force-Guided Framework for Autonomous Grasp Recovery in Vision-Language-Action Models**|Jian Huang Team|[2611.27011](http://arxiv.org/abs/2611.27011)|null|
+|**2026-11-20**|**RoboDyna: A Benchmark for Evaluating Robotic Manipulation under Physically Grounded Dynamics**|Amir Rasouli Team|[2611.26969](http://arxiv.org/abs/2611.26969)|**[link](https://robodyna.github.io/robodyna/)**|
+|**2026-11-20**|**Analysis of Multi-Client Inference Techniques for Vision-Language-Action Models**|Nandita Vijaykumar Team|[2611.26944](http://arxiv.org/abs/2611.26944)|null|
+|**2026-11-19**|**FORTH: Grounding Tactile VLA Execution via Forward-Only Proxy-Control Pairing**|Pui-In Mak Team|[2611.26744](http://arxiv.org/abs/2611.26744)|**[link](https://github.com/Jordanlllll/FORTH)**|
 |**2026-11-19**|**PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation**|Ioannis Havoutis Team|[2611.26596](http://arxiv.org/abs/2611.26596)|null|
 |**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Ngan Le Team|[2611.26565](http://arxiv.org/abs/2611.26565)|null|
 |**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Zhi Wang Team|[2611.26444](http://arxiv.org/abs/2611.26444)|null|
@@ -13121,6 +13130,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**Non-penetrating World Models**|Xingyi Yang Team|[2611.27963](http://arxiv.org/abs/2611.27963)|**[link](https://github.com/yuhangdai427/NoPeWorld)**|
+|**2026-11-20**|**What Must a Model Tell a Planner? Outcome Interfaces for Risk-Aware Planning After Robot Damage**|Krishna Kumar Team|[2611.27939](http://arxiv.org/abs/2611.27939)|null|
+|**2026-11-20**|**World Models for Learning Quantum Many-Body Dynamics**|Oleksandr Kyriienko Team|[2611.27871](http://arxiv.org/abs/2611.27871)|null|
+|**2026-11-20**|**Beyond Visual Fidelity: Comparing Categorical and Continuous World Models**|Katja Hofmann Team|[2611.27870](http://arxiv.org/abs/2611.27870)|null|
+|**2026-11-20**|**Trust What Repeats: Capped World-Model Policy Gradients for Humanoid Motion Tracking**|Stefan Edelkamp Team|[2611.27648](http://arxiv.org/abs/2611.27648)|null|
+|**2026-11-20**|**Efficient VLA Reinforcement Learning via Subchunk Rollouts in Latent World Models**|Yang Yu Team|[2611.27645](http://arxiv.org/abs/2611.27645)|null|
+|**2026-11-20**|**SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning**|Yulun Zhang Team|[2611.27639](http://arxiv.org/abs/2611.27639)|null|
+|**2026-11-20**|**GameScrub: Learning HUD Removal from Real Gameplay with Recovered Targets**|Guangyi Liu Team|[2611.27547](http://arxiv.org/abs/2611.27547)|null|
+|**2026-11-20**|**PhiJEPA: Denoising Latent Predictions for Visual Representation Learning**|Yao-Hung Hubert Tsai Team|[2611.27516](http://arxiv.org/abs/2611.27516)|null|
+|**2026-11-20**|**Ego4Gen: Generating Geometry-Grounded Motion Tokens as a World-Action Interface**|Weiyang Lin Team|[2611.27513](http://arxiv.org/abs/2611.27513)|null|
+|**2026-11-20**|**Beyond Future Views: Exploring Future-State World Models for Vision-Language Navigation**|Jianyi Liu Team|[2611.27418](http://arxiv.org/abs/2611.27418)|null|
+|**2026-11-20**|**Beyond Linear Decodability: Understanding and Improving Instruction Following in World Action Models**|Yong Li Team|[2611.27401](http://arxiv.org/abs/2611.27401)|**[link](https://ruflect-intelligence.github.io/LDS-Homepage/)**|
+|**2026-11-20**|**ReActWAM: Action-Consistent Caching for Efficient World-Action Models**|Chang Xu Team|[2611.27372](http://arxiv.org/abs/2611.27372)|null|
+|**2026-11-20**|**Learning Interaction Dynamics via Motion-Region Guidance for Robotic Video World Models**|Xiangmin Xu Team|[2611.27344](http://arxiv.org/abs/2611.27344)|null|
+|**2026-11-20**|**Trailblazer-F: Speculative Action-Flow Inference for Autonomous Driving**|Chun Jason Xue Team|[2611.27226](http://arxiv.org/abs/2611.27226)|null|
+|**2026-11-20**|**Tripwire: Robot Agents that Program Their Own Interrupts under Human Disturbance**|Chuang Gan Team|[2611.27182](http://arxiv.org/abs/2611.27182)|null|
+|**2026-11-20**|**PACE-WM: Parallel World Modeling with Action History for Visual Planning**|Kai Chen Team|[2611.27173](http://arxiv.org/abs/2611.27173)|null|
+|**2026-11-20**|**PhysForce: Physics-aware Force Control for Interactive Video World Model**|Bing-Kun Bao Team|[2611.27164](http://arxiv.org/abs/2611.27164)|null|
+|**2026-11-20**|**Where Structure Enters a World Model: From Predictive Fit to Physical Rollout**|Rajarshi Das Team|[2611.27149](http://arxiv.org/abs/2611.27149)|null|
+|**2026-11-20**|**A Plan or an Adversarial Example? A Round-Trip Check for Latent World Models**|Shijian Li Team|[2611.27124](http://arxiv.org/abs/2611.27124)|null|
 |**2026-11-19**|**ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement**|Liujuan Cao Team|[2611.26615](http://arxiv.org/abs/2611.26615)|null|
 |**2026-11-19**|**Plan4D: Generative Plannable 4D Worlds**|Chuanxia Zheng Team|[2611.26516](http://arxiv.org/abs/2611.26516)|**[link](https://fogradio.github.io/plan4d-project)**|
 |**2026-11-19**|**Monte Carlo Pass Search for Setpieces**|Andrew Kang Team|[2611.26464](http://arxiv.org/abs/2611.26464)|null|
@@ -14143,7 +14172,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-18**|**Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models**|Dongbin Zhao Team|[2611.24938](http://arxiv.org/abs/2611.24938)|null|
+|**2026-11-20**|**TrajRealm: A Large-Scale Point Tracking Dataset with Diverse Dynamics**|Junting Dong Team|[2611.27136](http://arxiv.org/abs/2611.27136)|**[link](https://purplehihi.github.io/TrajRealm/)**|
+|**2026-11-20**|**RoboPRO: A Perturbation-Resilient and Obstacle-Aware Benchmark for Robotic Manipulation**|Amir Rasouli Team|[2611.26971](http://arxiv.org/abs/2611.26971)|**[link](https://robopro-bench.github.io/RoboPRO/)**|
+|**2026-11-20**|**Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models**|Dongbin Zhao Team|[2611.24938](http://arxiv.org/abs/2611.24938)|null|
 |**2026-11-17**|**Neural Circuit Architectural Priors for Rat Locomotion**|Grace W. Lindsay Team|[2611.23364](http://arxiv.org/abs/2611.23364)|**[link](https://rat-ncap.github.io/)**|
 |**2026-11-17**|**Stochastic Diversity Windows: Diagnosing Noise Influence in Robotic Diffusion Sampling**|Ze Ji Team|[2611.22743](http://arxiv.org/abs/2611.22743)|null|
 |**2026-11-16**|**From Vision to Interaction: Evaluating Dynamic Social Intelligence of VLM Agents in ALIVE-World**|Jia Jia Team|[2611.20956](http://arxiv.org/abs/2611.20956)|null|
