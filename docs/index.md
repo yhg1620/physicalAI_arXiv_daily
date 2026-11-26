@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**SOLVE: Sparse, Ordered Keyposes Make LLM Agents Versatile and Efficient Robot Manipulator**|Shengjin Wang Team|[2611.34750](http://arxiv.org/abs/2611.34750)|null|
+|**2026-11-25**|**ELMO: Emergent Representations In Imitation Learning Via Dynamic Hierarchical Action Chunking**|Igor Gilitschenski Team|[2611.34741](http://arxiv.org/abs/2611.34741)|null|
+|**2026-11-25**|**Provably Efficient Concave Utility Reinforcement Learning with Linear Function Approximation**|Sharan Vaswani Team|[2611.34678](http://arxiv.org/abs/2611.34678)|null|
+|**2026-11-25**|**DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering**|Kui Jia Team|[2611.34671](http://arxiv.org/abs/2611.34671)|**[link](https://robbinw.github.io/DemoFoundry-Web)**|
+|**2026-11-25**|**M $^{2}$ AdaptVLA: Multimodal Memory-Augmented Vision-Language-Action Model with Predictive Test-Time Adaptation**|Hao Wang Team|[2611.34560](http://arxiv.org/abs/2611.34560)|null|
+|**2026-11-25**|**Dynamic Task Update Benchmark (DTU-Bench): Evaluating Runtime Task Adaptation in Robotic Manipulation**|Leimin Tian Team|[2611.34538](http://arxiv.org/abs/2611.34538)|null|
+|**2026-11-25**|**Can Visual World Models See Force?**|Nassir Navab Team|[2611.34422](http://arxiv.org/abs/2611.34422)|null|
+|**2026-11-25**|**One Patch, Many Policies: Object-Associated Physical Patch Attacks on Robotic Manipulation**|Yi Yu Team|[2611.34360](http://arxiv.org/abs/2611.34360)|null|
+|**2026-11-25**|**Co-World Model for Human-Video-to-Robot Transfer via Co-Constructed Shared Latent Dynamics**|Miao Li Team|[2611.34302](http://arxiv.org/abs/2611.34302)|null|
+|**2026-11-25**|**BOT-Scale: A Traceable Evaluation Methodology for Robotic Manipulation**|Zheng-Jun Zha Team|[2611.34297](http://arxiv.org/abs/2611.34297)|null|
+|**2026-11-25**|**CamAct: Learning Robotic Manipulation from In-the-Wild Videos via Camera Motion**|Weinan Zhang Team|[2611.34257](http://arxiv.org/abs/2611.34257)|null|
+|**2026-11-25**|**Variation-aware Temporal Correspondence for Self-Supervised Video Representation Learning**|Qingming Huang Team|[2611.34220](http://arxiv.org/abs/2611.34220)|null|
+|**2026-11-25**|**Loop4D: Embodied World Modeling with 4D VAEs and Looped Diffusion Transformers**|Hao Zhao Team|[2611.34199](http://arxiv.org/abs/2611.34199)|null|
+|**2026-11-25**|**WAtcher: Watching Ahead for Safe Robotic Manipulation with Efficient World-Action Models**|Ziwei Wang Team|[2611.34124](http://arxiv.org/abs/2611.34124)|**[link](https://zyshan0929.github.io/WAtcher)**|
+|**2026-11-25**|**CoTacWAM: Joint Modeling of Vision and Touch for Robotic Manipulation**|Yong Li Team|[2611.34117](http://arxiv.org/abs/2611.34117)|null|
+|**2026-11-25**|**WISER-RL: A Wake-Sleep Learning Mechanism for Robot Reinforcement Learning from One Demonstration**|Xiaojuan Qi Team|[2611.34043](http://arxiv.org/abs/2611.34043)|null|
+|**2026-11-25**|**Targeted Adaptation of World-Action Models via Interaction and Motion Heads**|Roei Herzig Team|[2611.33963](http://arxiv.org/abs/2611.33963)|**[link](https://headlight-wam.github.io/)**|
+|**2026-11-25**|**SEEK: Self-Evolution through Execution Knowledge for Agentic Robot Manipulation**|Kim-Hui Yap Team|[2611.33915](http://arxiv.org/abs/2611.33915)|null|
+|**2026-11-25**|**Integration of Vision-Language-Action Control for Autonomous Forklift Unloading with Limited Real-World Data**|Seigo Ito Team|[2611.33880](http://arxiv.org/abs/2611.33880)|null|
+|**2026-11-25**|**DriftWAM: Faster World-Action Models via Action-Aware Video Drifting**|Daochang Liu Team|[2611.33797](http://arxiv.org/abs/2611.33797)|null|
 |**2026-11-24**|**Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies**|Weihao Yu Team|[2611.33010](http://arxiv.org/abs/2611.33010)|**[link](https://github.com/iPPLab/robodojo-mirror)**|
 |**2026-11-24**|**HARI4D: Hand-Articulation Aware 4D Reconstruction of Human-Object Interaction**|Gerard Pons-Moll Team|[2611.32932](http://arxiv.org/abs/2611.32932)|null|
 |**2026-11-24**|**MRBench: Benchmarking Physical Necessity Reasoning in Heterogeneous Multi-Robot Manipulation**|Mike Zheng Shou Team|[2611.32803](http://arxiv.org/abs/2611.32803)|**[link](https://showlab.github.io/MRBench/)**|
@@ -4164,6 +4184,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Tracking Any Point with Agentic Visual Reasoning**|Zezhou Cheng Team|[2611.34943](http://arxiv.org/abs/2611.34943)|**[link](https://agentap.cs.virginia.edu)**|
+|**2026-11-25**|**Can image generation help visual reasoning? An empirical study**|Zhuang Liu Team|[2611.34935](http://arxiv.org/abs/2611.34935)|null|
+|**2026-11-25**|**Memory Is Not Ground Truth: Revising Navigation Authority under Unreliable VLM Evidence for Persistent Semantic Navigation**|Camillo Jose Taylor Team|[2611.34915](http://arxiv.org/abs/2611.34915)|null|
+|**2026-11-25**|**Towards Closing the Performance Gap in Cross-Modal Place Recognition**|Yoli Shavit Team|[2611.34877](http://arxiv.org/abs/2611.34877)|null|
+|**2026-11-25**|**Toward Agentic Robotics: A Large-Scale Study of Harness Design for Robot-Use Agents**|Ruixi Fan Team|[2611.34778](http://arxiv.org/abs/2611.34778)|null|
+|**2026-11-25**|**Find the Clue, Not the Scene: Rethinking Reasoning for Entity Recognition in Vision-Language Models**|Kyomin Jung Team|[2611.34681](http://arxiv.org/abs/2611.34681)|null|
+|**2026-11-25**|**Counting Beyond Frames: Codec Motion Tells Frozen Diffusion VLMs How Many**|Ge Li Team|[2611.34657](http://arxiv.org/abs/2611.34657)|null|
+|**2026-11-25**|**Commit2Drive: Perception-Grounded Language Decisions as Commitments for Trajectory Planning in Vision-Language-Action Driving Models**|Toby Breckon Team|[2611.34614](http://arxiv.org/abs/2611.34614)|null|
+|**2026-11-25**|**VisualMontage: Manipulating the Beliefs of Vision-Language Agents with Authentic Image Sequences**|Xiaowei Huang Team|[2611.34603](http://arxiv.org/abs/2611.34603)|null|
+|**2026-11-25**|**ADClaw: A Programmable Visual Agent for Industrial Anomaly Detection and Understanding**|Haixin Sun Team|[2611.34591](http://arxiv.org/abs/2611.34591)|null|
+|**2026-11-25**|**Recalling the Past to Answer the Present: Context-Aware Multi-Evidence Reasoning for Streaming Video Question Answering**|Yike Guo Team|[2611.34545](http://arxiv.org/abs/2611.34545)|null|
+|**2026-11-25**|**Decoder-as-a-Probe: Verbalizing and Steering Visual Representations in LVLMs**|Gabriele Facciolo Team|[2611.34515](http://arxiv.org/abs/2611.34515)|null|
+|**2026-11-25**|**SkySearcher: High-Altitude Onboard VLM Reasoning for Aerial Semantic Search**|Eduardo Montijano Team|[2611.34485](http://arxiv.org/abs/2611.34485)|null|
+|**2026-11-25**|**Attacking Hard-Label Large Vision-Language Models with Model-Sensitive Adversarial Patch Designs**|Ognjen Arandjelović Team|[2611.34467](http://arxiv.org/abs/2611.34467)|null|
+|**2026-11-25**|**DocSEAM: Bidirectional Cross-Page Encoding for Multi-Page Document Understanding**|Chen Change Loy Team|[2611.34420](http://arxiv.org/abs/2611.34420)|null|
+|**2026-11-25**|**LUDIUS: A Benchmark for Embodied Social Intelligence in Everyday Human-Robot Interactions**|Yea Seul Kim Team|[2611.34328](http://arxiv.org/abs/2611.34328)|null|
+|**2026-11-25**|**RAP: Radial-Angular Random Projection for Hyperbolic Representations**|Irwin King Team|[2611.34298](http://arxiv.org/abs/2611.34298)|null|
+|**2026-11-25**|**Beyond Logits: Coherent Hallucination Mitigation via Attention Contrastive Decoding**|Tianzhu Zhang Team|[2611.34207](http://arxiv.org/abs/2611.34207)|null|
+|**2026-11-25**|**A Simple Yet Effective Agent for Open-World Aerial Object Search**|Jun Yu Team|[2611.34115](http://arxiv.org/abs/2611.34115)|null|
+|**2026-11-25**|**What Makes a Gavagai? Learning Visual Concepts from One Positive and Few Negatives**|Yuta Nakashima Team|[2611.34105](http://arxiv.org/abs/2611.34105)|null|
 |**2026-11-24**|**BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles**|Serena Yeung-Levy Team|[2611.33151](http://arxiv.org/abs/2611.33151)|**[link](https://bioloom-clip.github.io/)**|
 |**2026-11-24**|**Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild**|Cheng Peng Team|[2611.33145](http://arxiv.org/abs/2611.33145)|**[link](https://dyfcalid.github.io/Lost-on-Campus/)**|
 |**2026-11-24**|**ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification**|Bo Dai Team|[2611.33143](http://arxiv.org/abs/2611.33143)|**[link](https://rxjfighting.github.io/ROAM-Bench/)**|
@@ -10750,6 +10790,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs**|Evangelos Chatzipantazis Team|[2611.34914](http://arxiv.org/abs/2611.34914)|null|
+|**2026-11-25**|**RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies**|Dongsu Han Team|[2611.34864](http://arxiv.org/abs/2611.34864)|null|
+|**2026-11-25**|**Toward Agentic Robotics: A Large-Scale Study of Harness Design for Robot-Use Agents**|Ruixi Fan Team|[2611.34778](http://arxiv.org/abs/2611.34778)|null|
+|**2026-11-25**|**A Failure-Driven Data Flywheel for Post-Training Vision-Language-Action Models**|Sikai Chen Team|[2611.34698](http://arxiv.org/abs/2611.34698)|null|
+|**2026-11-25**|**RoboEvo $^2$ : Recursive Robot Self-Improvement via Harness-Policy Co-Evolution**|Xiaojuan Qi Team|[2611.34675](http://arxiv.org/abs/2611.34675)|**[link](https://kaiknower.github.io/RoboEvo2/)**|
+|**2026-11-25**|**Commit2Drive: Perception-Grounded Language Decisions as Commitments for Trajectory Planning in Vision-Language-Action Driving Models**|Toby Breckon Team|[2611.34614](http://arxiv.org/abs/2611.34614)|null|
+|**2026-11-25**|**M $^{2}$ AdaptVLA: Multimodal Memory-Augmented Vision-Language-Action Model with Predictive Test-Time Adaptation**|Hao Wang Team|[2611.34560](http://arxiv.org/abs/2611.34560)|null|
+|**2026-11-25**|**Dynamic Task Update Benchmark (DTU-Bench): Evaluating Runtime Task Adaptation in Robotic Manipulation**|Leimin Tian Team|[2611.34538](http://arxiv.org/abs/2611.34538)|null|
+|**2026-11-25**|**HoloBrain-0.5 Technical Report**|Zhizhong Su Team|[2611.34449](http://arxiv.org/abs/2611.34449)|**[link](https://horizonrobotics.github.io/robot_lab/holobrain_0_5/)**|
+|**2026-11-25**|**Can Visual World Models See Force?**|Nassir Navab Team|[2611.34422](http://arxiv.org/abs/2611.34422)|null|
+|**2026-11-25**|**One Patch, Many Policies: Object-Associated Physical Patch Attacks on Robotic Manipulation**|Yi Yu Team|[2611.34360](http://arxiv.org/abs/2611.34360)|null|
+|**2026-11-25**|**Beyond Natural-Language Instructions: Temporal Logic as a Task Language for VLA Models with Visual-Logical Fusion**|Zhibo Chen Team|[2611.34352](http://arxiv.org/abs/2611.34352)|null|
+|**2026-11-25**|**DataForgeVLA: Fully Synthetic Manipulation Demonstrations for Vision-Language-Action Training**|Dzmitry Tsetserukou Team|[2611.34287](http://arxiv.org/abs/2611.34287)|**[link](https://huggingface.co/datasets/mws-physical-ai/dataforgevla-340)**|
+|**2026-11-25**|**Escapingthe instruction blackhole of vision-language-action policies via optimal-transport wormholes**|Miao Li Team|[2611.34280](http://arxiv.org/abs/2611.34280)|null|
+|**2026-11-25**|**CamAct: Learning Robotic Manipulation from In-the-Wild Videos via Camera Motion**|Weinan Zhang Team|[2611.34257](http://arxiv.org/abs/2611.34257)|null|
+|**2026-11-25**|**Aegis-VLA: Reliability-Gated Action Refinement via a Trajectory World Model for Dynamic Object Manipulation**|Wangmeng Zuo Team|[2611.33993](http://arxiv.org/abs/2611.33993)|null|
+|**2026-11-25**|**Towards 360 $^\circ$ Embodied UAV Tracking Without Turning**|Xuelong Li Team|[2611.33934](http://arxiv.org/abs/2611.33934)|null|
+|**2026-11-25**|**Integration of Vision-Language-Action Control for Autonomous Forklift Unloading with Limited Real-World Data**|Seigo Ito Team|[2611.33880](http://arxiv.org/abs/2611.33880)|null|
+|**2026-11-25**|**$\widetilde{\varepsilon}$ : Does Initial Noise Induce Directional Bias in Vision-Language-Action Models?**|Hae-Gon Jeon Team|[2611.33816](http://arxiv.org/abs/2611.33816)|**[link](https://june65.github.io/Epsilon-Tilde)**|
+|**2026-11-25**|**FlipVLA: Backdoor Attacks on Vision-Language-Action(VLA) Models Only Through Bit Flips**|Huawei Li Team|[2611.33810](http://arxiv.org/abs/2611.33810)|null|
 |**2026-11-24**|**Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action**|Angela Dai Team|[2611.33137](http://arxiv.org/abs/2611.33137)|**[link](https://liu115.github.io/physicl)**|
 |**2026-11-24**|**Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies**|Weihao Yu Team|[2611.33010](http://arxiv.org/abs/2611.33010)|**[link](https://github.com/iPPLab/robodojo-mirror)**|
 |**2026-11-24**|**What Does a Skill Vocabulary Cost? A Closed-Loop Decomposition over Demonstrated Motions**|Rudolf Lioutikov Team|[2611.32858](http://arxiv.org/abs/2611.32858)|**[link](https://intuitive-robots.github.io/mpq)**|
@@ -13180,6 +13240,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**FlipVLA: Backdoor Attacks on Vision-Language-Action(VLA) Models Only Through Bit Flips**|Huawei Li Team|[2611.33810](http://arxiv.org/abs/2611.33810)|null|
 |**2026-11-24**|**EmbodiSafety: Benchmarking Risk Understanding and Response in Embodied AI**|Tianxing Chen Team|[2611.33054](http://arxiv.org/abs/2611.33054)|**[link](http://embodisafety.github.io/)**|
 |**2026-11-17**|**Guarded Swarms in the Loop: A ROS 2/PX4 Digital Twin for Hybrid Digital-Analog Coordination of UAV/UGV Swarms**|Remo Pareschi Team|[2611.22773](http://arxiv.org/abs/2611.22773)|null|
 |**2026-11-13**|**VLAN: Vision-Language Accessible Navigation**|Jiaming Zhang Team|[2611.18346](http://arxiv.org/abs/2611.18346)|**[link](https://github.com/InSAI-Lab/VLAN)**|
@@ -13251,6 +13312,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models**|Jackie Ma Team|[2611.34830](http://arxiv.org/abs/2611.34830)|null|
+|**2026-11-25**|**HOG-WAM: Improving Visual Robustness through Future Gradient Prediction**|Weihao Yu Team|[2611.34811](http://arxiv.org/abs/2611.34811)|**[link](https://github.com/iPPLab/HOG-WAM)**|
+|**2026-11-25**|**Was the Model Given the Right Action? Auditing and Repairing Action Interfaces in Navigation World Models**|Sejuti Rahman Team|[2611.34739](http://arxiv.org/abs/2611.34739)|null|
+|**2026-11-25**|**WorldInteract: Controllable Streaming Video Generation for Multi-Material Interactions**|Peter Yichen Chen Team|[2611.34730](http://arxiv.org/abs/2611.34730)|null|
+|**2026-11-25**|**ShowNow: Fine-Grained Speculative Streaming for Responsive World Models**|Mike Zheng Shou Team|[2611.34693](http://arxiv.org/abs/2611.34693)|null|
+|**2026-11-25**|**Do We Still Need Reinforcement Learning When We Can Read the World Model?**|Zhiwei Xu Team|[2611.34656](http://arxiv.org/abs/2611.34656)|null|
+|**2026-11-25**|**Nav4Manip: From Navigation to Dexterous Mobile Manipulation through Co-Evolution**|He Wang Team|[2611.34655](http://arxiv.org/abs/2611.34655)|null|
+|**2026-11-25**|**Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics**|Lin Shao Team|[2611.34644](http://arxiv.org/abs/2611.34644)|**[link](https://xyz1206.github.io/MotionRep/)**|
+|**2026-11-25**|**$μ$ MPC: Microsecond-Scale Nonlinear and World Model Control from Edge to GPU via Koopman-Linearized Precompilation**|Glen Chou Team|[2611.34597](http://arxiv.org/abs/2611.34597)|**[link](https://www.deveshnath.com/projects/micrompc/)**|
+|**2026-11-25**|**Long-Horizon Planning with Latent World Models via Graph Anchors**|Shifat E. Arman Team|[2611.34509](http://arxiv.org/abs/2611.34509)|**[link](https://syed-nazmus-sakib.github.io/graph-anchors/)**|
+|**2026-11-25**|**Most of the Way There: Turning a Strong Video Prior into an Action-Conditioned World Model**|Zhizhong Su Team|[2611.34435](http://arxiv.org/abs/2611.34435)|**[link](https://xmz111.github.io/Dianjing/)**|
+|**2026-11-25**|**Can Visual World Models See Force?**|Nassir Navab Team|[2611.34422](http://arxiv.org/abs/2611.34422)|null|
+|**2026-11-25**|**One Patch, Many Policies: Object-Associated Physical Patch Attacks on Robotic Manipulation**|Yi Yu Team|[2611.34360](http://arxiv.org/abs/2611.34360)|null|
+|**2026-11-25**|**Co-World Model for Human-Video-to-Robot Transfer via Co-Constructed Shared Latent Dynamics**|Miao Li Team|[2611.34302](http://arxiv.org/abs/2611.34302)|null|
+|**2026-11-25**|**Rehearse in 3D, Render in 2D: Physically Consistent and Editable Robot World Models**|Hanwei Liu Team|[2611.34288](http://arxiv.org/abs/2611.34288)|null|
+|**2026-11-25**|**Loop4D: Embodied World Modeling with 4D VAEs and Looped Diffusion Transformers**|Hao Zhao Team|[2611.34199](http://arxiv.org/abs/2611.34199)|null|
+|**2026-11-25**|**WorldPhy: Benchmarking Fine-Grained Physical Plausibility of World Models in Robotics**|Linchao Zhu Team|[2611.34130](http://arxiv.org/abs/2611.34130)|null|
+|**2026-11-25**|**WAtcher: Watching Ahead for Safe Robotic Manipulation with Efficient World-Action Models**|Ziwei Wang Team|[2611.34124](http://arxiv.org/abs/2611.34124)|**[link](https://zyshan0929.github.io/WAtcher)**|
+|**2026-11-25**|**CoTacWAM: Joint Modeling of Vision and Touch for Robotic Manipulation**|Yong Li Team|[2611.34117](http://arxiv.org/abs/2611.34117)|null|
+|**2026-11-25**|**A Simple Yet Effective Agent for Open-World Aerial Object Search**|Jun Yu Team|[2611.34115](http://arxiv.org/abs/2611.34115)|null|
 |**2026-11-24**|**iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction**|Aviral Kumar Team|[2611.33141](http://arxiv.org/abs/2611.33141)|null|
 |**2026-11-24**|**Hybrid AI for AI-Native RAN Control: A Functional Perspective**|Pegah Alizadeh Team|[2611.33035](http://arxiv.org/abs/2611.33035)|null|
 |**2026-11-24**|**Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies**|Weihao Yu Team|[2611.33010](http://arxiv.org/abs/2611.33010)|**[link](https://github.com/iPPLab/robodojo-mirror)**|
@@ -14333,7 +14414,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-24**|**RFW-W: Scaling Physical Asset Universes for Generative Embodied Simulation**|Chaojian Li Team|[2611.33013](http://arxiv.org/abs/2611.33013)|**[link](https://github.com/RoboFlywheel-com/RoboFlywheel-World)**|
+|**2026-11-25**|**RFW-W: Scaling Physical Asset Universes for Generative Embodied Simulation**|Chaojian Li Team|[2611.33013](http://arxiv.org/abs/2611.33013)|**[link](https://roboflywheel-com.github.io/RoboFlywheel-World/)**|
 |**2026-11-24**|**DeCoNav-Act: Benchmarking Collective Physical Capability in Multi-Robot Mobile Manipulation**|Xuelong Li Team|[2611.32683](http://arxiv.org/abs/2611.32683)|null|
 |**2026-11-24**|**Roboclock: A Unified Benchmark for Time-Aware Robotic Intelligence**|Jishen Zhao Team|[2611.32233](http://arxiv.org/abs/2611.32233)|null|
 |**2026-11-20**|**TrajRealm: A Large-Scale Point Tracking Dataset with Diverse Dynamics**|Junting Dong Team|[2611.27136](http://arxiv.org/abs/2611.27136)|**[link](https://purplehihi.github.io/TrajRealm/)**|
@@ -14404,6 +14485,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**AIRIS: Benchmarking Social Embodied Intelligence in Egocentric Streaming Videos**|He Zhang Team|[2611.34347](http://arxiv.org/abs/2611.34347)|null|
+|**2026-11-25**|**MMotion: Collaborative Cross-Scale Memory for Text-to-Motion Generation**|Lili Wang Team|[2611.33819](http://arxiv.org/abs/2611.33819)|null|
 |**2026-11-24**|**VidForce: Predicting Force-Aware Articulation by Observing Humans**|Hermann Blum Team|[2611.32967](http://arxiv.org/abs/2611.32967)|**[link](https://rafaymhddn.github.io/vidforce)**|
 |**2026-11-24**|**EviCraft: Can Minecraft Agents Find What They Cannot See?**|Zhou Zhao Team|[2611.32765](http://arxiv.org/abs/2611.32765)|null|
 |**2026-11-24**|**PoseVLN: Learning Geometric State Evolution for Vision-Language Navigation**|Bin Shi Team|[2611.32218](http://arxiv.org/abs/2611.32218)|**[link](https://houpengyu123.github.io/PoseVLN/)**|
